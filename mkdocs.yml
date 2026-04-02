@@ -1,0 +1,118 @@
+site_name: Corso di Inglese
+site_description: Corso completo di inglese da livello A1 a C2
+site_author: Il tuo nome
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: index.md
+
+  - Metodo:
+      - Introduzione: metodo/index.md
+      - Come studiare: metodo/come-studiare.md
+      - Errori comuni degli italiani: metodo/errori-comuni.md
+      - Speaking: metodo/speaking.md
+      - Come usare il corso: metodo/uso-corso.md
+
+  - A1:
+      - Introduzione: a1/index.md
+      - Unità 01: a1/unita-01.md
+      - Unità 02: a1/unita-02.md
+      - Unità 03: a1/unita-03.md
+      - Unità 04: a1/unita-04.md
+      - Unità 05: a1/unita-05.md
+      - Unità 06: a1/unita-06.md
+      - Unità 07: a1/unita-07.md
+      - Unità 08: a1/unita-08.md
+      - Unità 09: a1/unita-09.md
+      - Unità 10: a1/unita-10.md
+
+  - A2:
+      - Introduzione: a2/index.md
+      - Unità 11: a2/unita-11.md
+      - Unità 12: a2/unita-12.md
+      - Unità 13: a2/unita-13.md
+      - Unità 14: a2/unita-14.md
+      - Unità 15: a2/unita-15.md
+      - Unità 16: a2/unita-16.md
+      - Unità 17: a2/unita-17.md
+      - Unità 18: a2/unita-18.md
+      - Unità 19: a2/unita-19.md
+      - Unità 20: a2/unita-20.md
+
+  - B1:
+      - Introduzione: b1/index.md
+      - Unità 21: b1/unita-21.md
+      - Unità 22: b1/unita-22.md
+      - Unità 23: b1/unita-23.md
+      - Unità 24: b1/unita-24.md
+      - Unità 25: b1/unita-25.md
+      - Unità 26: b1/unita-26.md
+      - Unità 27: b1/unita-27.md
+      - Unità 28: b1/unita-28.md
+      - Unità 29: b1/unita-29.md
+      - Unità 30: b1/unita-30.md
+
+  - B2:
+      - Introduzione: b2/index.md
+      - Unità 31: b2/unita-31.md
+      - Unità 32: b2/unita-32.md
+      - Unità 33: b2/unita-33.md
+      - Unità 34: b2/unita-34.md
+      - Unità 35: b2/unita-35.md
+      - Unità 36: b2/unita-36.md
+      - Unità 37: b2/unita-37.md
+      - Unità 38: b2/unita-38.md
+      - Unità 39: b2/unita-39.md
+      - Unità 40: b2/unita-40.md
+
+  - C1:
+      - Introduzione: c1/index.md
+      - Unità 21: c1/unita-41.md
+      - Unità 22: c1/unita-42.md
+      - Unità 23: c1/unita-43.md
+      - Unità 24: c1/unita-44.md
+      - Unità 25: c1/unita-45.md
+      - Unità 26: c1/unita-46.md
+      - Unità 27: c1/unita-47.md
+      - Unità 28: c1/unita-48.md
+      - Unità 29: c1/unita-49.md
+      - Unità 50: c1/unita-50.md
+
+  - C2:
+      - Introduzione: c2/index.md
+      - Unità 51: c2/unita-51.md
+      - Unità 52: c2/unita-52.md
+      - Unità 53: c2/unita-63.md
+      - Unità 54: c2/unita-54.md
+      - Unità 55: c2/unita-55.md
+      - Unità 56: c2/unita-56.md
+      - Unità 57: c2/unita-57.md
+      - Unità 58: c2/unita-58.md
+      - Unità 59: c2/unita-59.md
+      - Unità 60: c2/unita-60.md
+
+  - Pronunciation Lab:
+      - pronunciation/index.md
+
+  - Grammar Reference:
+      - grammar/index.md
+
+  - Vocabulary Builder:
+      - vocabulary/index.md
+
+  - Exercises:
+      - exercises/index.md
+
+  - Progress Tests:
+      - tests/index.md
+
+  - About: about.md
