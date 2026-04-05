@@ -1,139 +1,215 @@
-# 📚 Vocabulary – Corso di Inglese
+# Vocabulary
+
+Benvenuto nella sezione **Vocabulary** del corso completo di inglese **A1 → C2**.
+
+Questa pagina raccoglie e organizza il lessico del corso in una grande reference tematica, pensata non come semplice lista di parole, ma come guida pratica all'uso reale del vocabolario in contesto.
+
+Il lessico è stato strutturato per aiutarti a sviluppare progressivamente:
+
+- **range lessicale**
+- **precisione**
+- **naturalness**
+- **register control**
+- **idiomaticity**
+- **collocational awareness**
+
+## Come usare questa sezione
+
+Puoi usare questa pagina in quattro modi principali:
+
+### 1. Come reference tematica
+Se vuoi rivedere il lessico di una certa area, puoi usare direttamente i grandi blocchi tematici qui sotto.
+
+### 2. Come supporto alle unità
+Dopo aver studiato una unità grammaticale o comunicativa, puoi tornare qui per consolidare il lessico collegato al tema.
+
+### 3. Come strumento di revisione attiva
+Non limitarti a leggere le parole: prova a costruire frasi, fare sostituzioni, creare esempi personali, riformulare e parlare ad alta voce.
+
+### 4. Come ponte verso uno speaking e un writing più naturali
+A livelli più alti, il problema non è solo “sapere la parola”, ma scegliere la parola **più adatta**, **più naturale** e **più coerente con il tono**.
+
+## Modalità Base e Professional
+
+Questo sito offre due modalità di studio:
+
+### Base
+Nella modalità **Base** trovi:
+- lessico fondamentale
+- combinazioni comuni
+- esempi semplici e chiari
+- errori tipici da evitare
+- supporto utile per consolidare il lessico essenziale
+
+### Professional
+Nella modalità **Professional** trovi in più:
+- collocations più ricche
+- lexical precision
+- register awareness
+- pragmatic fit
+- nuance tra parole simili
+- alternative più naturali per speaking e writing
+- maggiore attenzione a tone, stance e idiomaticity
+
+<div class="pro-only" markdown="1">
+
+## Cosa cambia davvero in modalità Professional
+
+La modalità **Professional** non aggiunge semplicemente “più parole”.
+
+Aggiunge soprattutto:
+
+- differenze tra parole apparentemente simili
+- collocazioni ad alta frequenza e ad alta naturalezza
+- contrasto tra inglese corretto e inglese idiomaticamente credibile
+- attenzione a formalità, distanza, diplomazia e precisione
+- passaggio da vocabolario “tradotto” a vocabolario “pensato in inglese”
+
+In altre parole, il lavoro lessicale diventa non solo quantitativo, ma anche qualitativo.
+
+</div>
+
+## Struttura della sezione
+
+La sezione è organizzata in **3 grandi chunk**:
+
+### Chunk 1 — Core Everyday Vocabulary
+Lessico quotidiano, concreto, ad alta frequenza, utile per identità personale, casa, routine, cibo, città, viaggi, salute, hobby e interazione sociale quotidiana.
+
+### Chunk 2 — Social, Study, Work, Communication Vocabulary
+Lessico per studio, lavoro, comunicazione, email, opinioni, problemi, media, società, tecnologia e vita professionale.
+
+### Chunk 3 — Advanced Nuance, Precision, Idiomaticity
+Lessico avanzato per precisione espressiva, argomentazione, tone management, idiomaticità, register, stance e naturalezza alta **C1–C2**.
+
+## Metodo consigliato di studio del vocabolario
+
+Per ottenere risultati reali, usa questa sequenza:
+
+1. leggi il lessico del tema
+2. individua le combinazioni utili
+3. nota gli errori tipici degli italofoni
+4. crea esempi personali
+5. prova a trasformare il lessico in speaking
+6. ricicla le stesse parole in writing
+7. torna sul tema dopo qualche giorno per consolidarlo
+
+## Cosa NON fare
+
+Evita di studiare il vocabolario in modo puramente passivo.
+
+Non basta:
+- leggere liste di parole
+- tradurre mentalmente parola per parola
+- memorizzare equivalenze isolate senza contesto
+
+Il lessico va studiato soprattutto come:
+- **word + pattern**
+- **word + collocation**
+- **word + register**
+- **word + context**
+
+## Indice rapido dei blocchi
+
+- [Chunk 1 — Core Everyday Vocabulary](#chunk-1--core-everyday-vocabulary)
+- [Chunk 2 — Social, Study, Work, Communication Vocabulary](#chunk-2--social-study-work-communication-vocabulary)
+- [Chunk 3 — Advanced Nuance, Precision, Idiomaticity](#chunk-3--advanced-nuance-precision-idiomaticity)
 
 ---
 
-## 🎯 Obiettivo
+## Chunk 1 — Core Everyday Vocabulary
 
-Questa sezione raccoglie il vocabolario più importante del corso.
-
-👉 Qui puoi:
-
-- ripassare parole chiave  
-- capire come usarle  
-- vedere esempi reali  
-- imparare combinazioni naturali  
+--8<-- "_snippets/vocabulary/chunk-01-core-everyday.md"
 
 ---
 
-## 🧠 Come usare questa pagina
+## Chunk 2 — Social, Study, Work, Communication Vocabulary
 
-👉 NON memorizzare tutto insieme  
-
-Usala così:
-
-- ripassa 10–15 parole al giorno  
-- leggi gli esempi  
-- prova a creare frasi tue  
+--8<-- "_snippets/vocabulary/chunk-02-social-work-study.md"
 
 ---
 
-## 📊 Tabella principale del vocabolario
+## Chunk 3 — Advanced Nuance, Precision, Idiomaticity
 
-| Word / Expression | Tipo | Significato | Esempio semplice | Esempio reale (B1/B2) | Note |
-|------------------|------|------------|------------------|----------------------|------|
-| work | verb | lavorare | I work every day | I work in a company that develops software | base |
-| job | noun | lavoro | I have a job | I have a full-time job in marketing | non usare “work” come nome |
-| study | verb | studiare | I study English | I study English because I want to improve my career | |
-| learn | verb | imparare | I learn English | I learn new things every day at work | differenza con “study” |
-| go out | phrasal verb | uscire | I go out at night | I go out with friends when I have free time | naturale |
-| get up | phrasal verb | alzarsi | I get up at 7 | I get up early because I start work at 8 | routine |
-| wake up | phrasal verb | svegliarsi | I wake up at 7 | I wake up early but I stay in bed | |
-| look for | phrasal verb | cercare | I look for my keys | I am looking for a new job | NON “search” |
-| find out | phrasal verb | scoprire | I find out the answer | I found out that the meeting was cancelled | |
-| make a decision | collocation | prendere una decisione | I make a decision | I made a decision to change my job | NON “do” |
-| take a break | collocation | fare una pausa | I take a break | I usually take a break after lunch | |
-| do homework | collocation | fare i compiti | I do homework | I do my homework every evening | NON “make” |
-| have experience | collocation | avere esperienza | I have experience | I have experience in sales | |
-| travel | verb | viaggiare | I travel a lot | I travel to different countries for work | |
-| trip | noun | viaggio breve | I take a trip | I went on a business trip last week | |
-| expensive | adj | costoso | It is expensive | This restaurant is expensive but very good | |
-| cheap | adj | economico | It is cheap | This product is cheap but useful | |
-| improve | verb | migliorare | I improve English | I want to improve my English skills | |
-| important | adj | importante | It is important | English is important for my career | |
-| useful | adj | utile | It is useful | This course is very useful for beginners | |
-| difficult | adj | difficile | It is difficult | Learning English can be difficult at the beginning | |
-| easy | adj | facile | It is easy | This exercise is easy to understand | |
-| interesting | adj | interessante | It is interesting | This topic is really interesting | |
-| boring | adj | noioso | It is boring | The lesson was boring | |
-| agree | verb | essere d’accordo | I agree | I agree with you about this idea | NON “I am agree” |
-| disagree | verb | non essere d’accordo | I disagree | I disagree because it is too expensive | |
-| think | verb | pensare | I think it is good | I think this is a good solution | |
-| believe | verb | credere | I believe you | I believe this method works | |
-| because | connector | perché | I study because... | I study because I want to improve | |
-| however | connector | tuttavia | It is good, however... | It is useful, however it is difficult | B2 |
-| for this reason | connector | per questo motivo | For this reason... | For this reason, I continue studying | |
-| although | connector | anche se | Although it is hard... | Although it is difficult, I enjoy it | |
-| first | linker | prima | First, I study | First, I worked in Italy | |
-| then | linker | poi | Then I go out | Then I started a new job | |
-| finally | linker | infine | Finally, I go home | Finally, I finished the project | |
-| actually | discourse marker | in realtà | Actually, I think... | Actually, I don’t agree with you | |
-| basically | discourse marker | praticamente | Basically... | Basically, it is very simple | |
-| in my opinion | expression | secondo me | In my opinion... | In my opinion, this is the best option | |
-| I would like | expression | vorrei | I would like help | I would like to ask you something | formale |
-| could you please | expression | potresti per favore | Could you help me? | Could you please send me the file? | formale |
-| I look forward to | expression | attendo | I look forward to hearing from you | I look forward to your reply | email |
-| responsibility | noun | responsabilità | I have responsibility | I am responsible for managing projects | |
-| manage | verb | gestire | I manage projects | I manage a team of five people | |
-| improve skills | collocation | migliorare competenze | I improve skills | I want to improve my communication skills | |
+--8<-- "_snippets/vocabulary/chunk-03-advanced-nuance-c2.md"
 
 ---
 
-## 🧠 Pattern fondamentali da ricordare
+## Come ripassare questa pagina senza perderti
 
-👉 NON imparare parole singole  
-👉 impara combinazioni
+Dato che questa reference è molto ampia, puoi usarla anche per cicli di revisione.
 
-Esempi:
+### Revisione breve
+Scegli un solo tema e lavora su:
+- core vocabulary
+- useful combinations
+- due o tre errori tipici
 
-- make a decision ✔️  
-- take a break ✔️  
-- do homework ✔️  
+### Revisione intermedia
+Scegli due temi e crea:
+- 10 frasi
+- 5 domande di speaking
+- 1 mini testo
 
----
+### Revisione avanzata
+Scegli un tema da un chunk basso e uno da un chunk alto, poi prova a:
+- confrontare registro e precisione
+- sostituire parole generiche con parole più precise
+- trasformare un testo semplice in un testo più naturale
 
-## ⚠️ Errori comuni (super importanti)
+<div class="pro-only" markdown="1">
 
-| Errore | Corretto |
-|--------|---------|
-| make a photo | take a photo |
-| do a mistake | make a mistake |
-| I am agree | I agree |
-| I search my keys | I look for my keys |
+## Strategia Professional per usare davvero il vocabolario
 
----
+Per ottenere un salto qualitativo reale, prova a studiare ogni tema su 5 livelli:
 
-## 🚀 Strategia consigliata
+### Level 1 — Recognition
+Capisci il significato delle parole e delle combinazioni.
 
-👉 ogni giorno:
+### Level 2 — Controlled production
+Usi il lessico in frasi guidate.
 
-1. scegli 10 parole  
-2. leggi esempi  
-3. crea 3 frasi tue  
+### Level 3 — Contextual production
+Usi il lessico in mini-dialoghi o piccoli paragrafi.
 
----
+### Level 4 — Flexible production
+Riformuli, sostituisci e adatti il lessico a contesti diversi.
 
-## 💬 Mini esercizio
+### Level 5 — Pragmatic control
+Scegli la parola o la formula più adatta in base a:
+- tono
+- distanza
+- precisione
+- contesto
+- intento comunicativo
 
-Crea frasi con:
+Questo è il vero passaggio da vocabolario scolastico a vocabolario maturo.
 
-- make a decision  
-- go out  
-- because  
-- I think  
+</div>
 
----
+## Self-check finale
 
-## 🎯 Obiettivo finale
+Prova a rispondere a queste domande:
 
-Se riesci a:
+1. Riesci a trovare rapidamente il lessico per un tema specifico?
+2. Sai distinguere tra parola corretta e parola naturale?
+3. Sai riconoscere una collocation forte?
+4. Sai evitare i false friends più comuni?
+5. Sai adattare il lessico al registro?
+6. Sai trasformare il vocabolario studiato in speaking e writing?
 
-✅ usare queste parole in frasi  
-✅ parlare senza tradurre  
-✅ riconoscere le collocations  
+Se la risposta è “non sempre”, questa pagina non va solo letta: va **usata**, ripresa, annotata e riciclata.
 
-👉 il tuo inglese è **naturale**
+## Conclusione
 
----
+Questa sezione vocabulary è pensata come una grande mappa lessicale del corso.
 
-> Vocabulary is not about words.  
-> It is about how words work together.
+Usala in parallelo con:
+- le unità dei livelli
+- la sezione grammar
+- la sezione pronunciation
+- la sezione exercises
+- la sezione tests
+
+Il vocabolario non cresce davvero quando impari più parole isolate.
+Cresce davvero quando impari a usare meglio le parole **insieme**, nel contesto giusto, con il tono giusto e con il livello di precisione giusto.

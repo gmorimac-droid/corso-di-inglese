@@ -1,619 +1,443 @@
-# 📝 Progress Tests – Corso di Inglese
+# 📝 Progress Tests
 
-Benvenuto nella sezione **Progress Tests** del **Corso di Inglese**.
+Benvenuto nella sezione **Tests** del corso.
 
-Questa parte del sito serve a verificare in modo chiaro e progressivo il tuo livello di inglese durante il percorso da **A1** a **B2**.
-
-I test non servono solo a “dare un voto”.  
-Servono soprattutto a:
-
-- misurare i tuoi progressi
-- capire cosa sai usare davvero
-- individuare errori ricorrenti
-- consolidare grammatica, vocabolario e speaking
-- prepararti a un uso reale della lingua
+Questa pagina raccoglie la logica generale dei **test di progresso** del percorso da **A1** a **C2**. I test non servono solo a “misurare un voto”: servono a capire **cosa sai usare davvero**, dove sei ancora fragile e quando sei pronto per il livello successivo.
 
 ---
 
-## 🎯 Obiettivo della sezione
+## Come usare questa sezione
 
-Questa sezione ti aiuta a rispondere a 4 domande fondamentali:
+Usa i test in quattro momenti chiave:
 
-| Domanda | Perché è importante |
-|---------|---------------------|
-| Cosa so fare davvero? | per misurare il livello reale |
-| In quali aree sono forte? | per consolidare |
-| Dove faccio ancora errori? | per correggere |
-| Sono pronto per il livello successivo? | per avanzare con sicurezza |
-
----
-
-## 🧠 Come usare i test
-
-I test vanno usati con intelligenza.
-
-Non sono pensati per essere fatti in fretta o una sola volta.  
-L’uso corretto è questo:
-
-| Fase | Cosa fare | Obiettivo |
-|------|-----------|-----------|
-| Prima del test | ripassa le unità del livello | attivare la memoria |
-| Durante il test | rispondi senza copiare | misurare il livello reale |
-| Dopo il test | correggi e analizza gli errori | imparare davvero |
-| 2–3 giorni dopo | rifai le parti difficili | consolidare |
+| Momento | Cosa fare | Obiettivo |
+|---------|-----------|-----------|
+| Prima del test | Ripassa le unità del livello | Riattivare regole e lessico |
+| Durante il test | Rispondi senza aiuti | Misurare il livello reale |
+| Dopo il test | Correggi e classifica gli errori | Trasformare gli errori in apprendimento |
+| Alcuni giorni dopo | Rifai le parti deboli | Consolidare davvero |
 
 ---
 
-## 🗂 Struttura dei test
+## Modalità Base e Professional
 
-I test del corso sono divisi per livello:
+Il sito ti permette di studiare in due modalità.
 
-| Test | Livello | Obiettivo |
-|------|---------|-----------|
-| Test A1 | Beginner | verificare le basi |
-| Test A2 | Elementary | verificare comunicazione semplice |
-| Test B1 | Intermediate | verificare autonomia |
-| Test B2 | Upper-Intermediate | verificare fluidità e naturalezza |
+| Modalità | A cosa serve |
+|----------|---------------|
+| **Base** | Verifica le competenze essenziali del livello |
+| **Professional** | Verifica controllo, naturalezza, precisione, tono e capacità di usare l’inglese in modo più maturo |
+
+<div class="pro-only" markdown="1">
+
+## Cosa cambia nei test in modalità Professional
+
+Nella modalità **Professional**, i test diventano più selettivi e più vicini all’uso reale della lingua.
+
+In particolare troverai:
+
+- esercizi meno meccanici e più contestualizzati
+- attenzione a **register**, **collocations**, **word choice** e **pragmatic appropriateness**
+- speaking più esteso
+- writing più sviluppato
+- task integrati che chiedono di combinare grammar, vocabulary e communication
+- maggiore attenzione agli errori tipici degli italofoni
+
+</div>
 
 ---
 
-## 📊 Cosa viene valutato
+## Cosa viene valutato
 
-Ogni test misura diverse abilità.
+Ogni test dovrebbe controllare più di una sola area.
 
 | Area | Cosa viene verificato |
 |------|------------------------|
-| Grammar | correttezza delle strutture |
-| Vocabulary | uso delle parole e delle collocations |
-| Reading | comprensione di testi |
-| Writing | capacità di scrivere in modo chiaro |
-| Speaking | capacità di parlare in modo fluido |
-| Accuracy | precisione |
-| Communication | capacità di farsi capire |
+| Grammar | Correttezza e controllo delle strutture |
+| Vocabulary | Precisione lessicale, collocations, naturalezza |
+| Reading | Comprensione di testi e consegne |
+| Writing | Chiarezza, struttura, accuratezza, tono |
+| Speaking | Fluidità, controllo, interazione |
+| Use of English | Capacità di scegliere la forma giusta in contesto |
+| Communication | Capacità di farsi capire in modo efficace |
 
 ---
 
-## 🧩 Tipologie di esercizi nei test
+## Tipi di task consigliati
 
-Per rendere la verifica completa, i test includono diverse attività.
-
-| Tipo di esercizio | Descrizione | Cosa misura |
-|-------------------|-------------|-------------|
-| Multiple choice | scelta tra opzioni | riconoscimento corretto |
-| Fill in the blanks | completamento | controllo grammaticale |
-| Transformation | trasformazione di frasi | flessibilità grammaticale |
-| Error correction | correzione errori | consapevolezza linguistica |
-| Short writing | scrittura breve | organizzazione e accuratezza |
-| Guided speaking | produzione orale guidata | fluidità e sicurezza |
-| Mixed task | attività integrate | competenza reale |
+| Tipo di attività | A cosa serve |
+|------------------|---------------|
+| Multiple choice | Controllo rapido di regole e uso |
+| Fill in the blanks | Verifica di grammatica e lessico |
+| Transformation | Flessibilità strutturale |
+| Error correction | Consapevolezza linguistica |
+| Matching / sorting | Distinzione tra forme o significati |
+| Short writing | Produzione scritta guidata |
+| Guided speaking | Produzione orale guidata |
+| Integrated task | Uso reale combinato di più competenze |
 
 ---
 
-# 📗 Test A1 – Beginner Check
+# Struttura dei test per livello
 
-Il test A1 verifica se hai costruito una base solida.
+## 📗 Test A1 – Foundation Check
 
-A questo livello devi essere in grado di:
+A1 controlla se hai costruito una base reale.
+
+### Cosa dovresti saper fare
 
 - presentarti
 - fare domande semplici
 - parlare della tua routine
-- descrivere oggetti e luoghi
+- descrivere luoghi e oggetti
 - dire cosa sai fare
-- usare frasi brevi ma corrette
+- scrivere frasi brevi ma corrette
 
----
-
-## Competenze attese A1
-
-| Abilità | Cosa dovresti saper fare |
-|---------|--------------------------|
-| Speaking | presentarti e parlare di te |
-| Grammar | usare to be, present simple, can, there is/are |
-| Vocabulary | usare lessico base quotidiano |
-| Writing | scrivere frasi semplici |
-| Interaction | fare e rispondere a domande base |
-
----
-
-## Struttura consigliata del Test A1
+### Struttura consigliata del test A1
 
 | Parte | Contenuto | Punti |
 |------|-----------|-------|
-| Part 1 | To be / pronouns / articles | 10 |
-| Part 2 | Present Simple | 10 |
-| Part 3 | There is / There are | 10 |
-| Part 4 | Can / Can’t | 10 |
-| Part 5 | Writing breve | 10 |
-| Part 6 | Speaking breve | 10 |
-
-Totale consigliato: **60 punti**
-
----
-
-## Esempi di task A1
-
-### Grammar
-
-Completa:
-
-1. I ___ from Italy  
-2. She ___ a teacher  
-3. There ___ a chair in the room  
-4. I ___ swim  
-
----
-
-### Writing
-
-Scrivi 5–6 frasi su di te:
-
-- name
-- age
-- country
-- job / study
-- daily routine
-
----
-
-### Speaking
-
-Parla per 1 minuto:
-
-- presentati
-- descrivi la tua stanza
-- parla di 2 cose che sai fare
-
----
-
-## Quando sei pronto per passare da A1 ad A2?
-
-Se riesci a:
-
-| Indicatore | Esito |
-|-----------|-------|
-| parlare per 1 minuto | sì |
-| capire domande semplici | sì |
-| scrivere frasi corrette | sì |
-| usare il present simple | sì |
-
-👉 allora puoi passare al livello **A2**
-
----
-
-# 📘 Test A2 – Elementary Check
-
-Il test A2 verifica se riesci a comunicare in modo semplice ma reale.
-
-A questo livello devi saper parlare di:
-
-- routine
-- azioni in corso
-- passato
-- futuro
-- esperienze semplici
-- viaggi, cibo, città, shopping
-
----
-
-## Competenze attese A2
-
-| Abilità | Cosa dovresti saper fare |
-|---------|--------------------------|
-| Speaking | descrivere vita quotidiana e passato |
-| Grammar | usare present continuous, past simple, future forms |
-| Vocabulary | usare lessico più ampio |
-| Writing | scrivere testi brevi collegati |
-| Interaction | sostenere mini conversazioni reali |
-
----
-
-## Struttura consigliata del Test A2
-
-| Parte | Contenuto | Punti |
-|------|-----------|-------|
-| Part 1 | Present Simple vs Continuous | 10 |
-| Part 2 | Past Simple | 10 |
-| Part 3 | Quantifiers | 10 |
-| Part 4 | Future (will / going to) | 10 |
-| Part 5 | Experiences | 10 |
-| Part 6 | Writing | 10 |
-| Part 7 | Speaking | 10 |
+| 1 | To be / subject pronouns / articles | 10 |
+| 2 | Present Simple | 10 |
+| 3 | There is / There are | 10 |
+| 4 | Can / Can’t | 10 |
+| 5 | Basic vocabulary | 10 |
+| 6 | Short writing | 10 |
+| 7 | Guided speaking | 10 |
 
 Totale consigliato: **70 punti**
 
----
+### Quando sei pronto per A2?
 
-## Esempi di task A2
-
-### Grammar
-
-Completa:
-
-1. I ___ (work) now  
-2. Yesterday I ___ (go) to the city  
-3. I have some apples but I don’t have ___ money  
-4. I am going ___ travel tomorrow  
+| Indicatore | Sì / No |
+|-----------|---------|
+| So presentarmi con frasi semplici | |
+| So fare domande base | |
+| So usare il Present Simple | |
+| So descrivere una stanza o un luogo | |
+| So scrivere un mini testo corretto | |
 
 ---
 
-### Writing
+## 📘 Test A2 – Everyday Communication Check
 
-Scrivi un testo di 8–10 frasi su:
+A2 controlla se riesci a comunicare in modo semplice ma reale.
 
-- cosa fai ogni giorno
-- cosa hai fatto ieri
-- cosa farai domani
+### Cosa dovresti saper fare
 
----
+- parlare di presente, passato e futuro
+- descrivere azioni in corso
+- raccontare esperienze semplici
+- usare lessico quotidiano più ampio
+- sostenere mini conversazioni reali
 
-### Speaking
-
-Parla per 2 minuti:
-
-- routine
-- esperienza passata
-- piano per il weekend
-
----
-
-## Quando sei pronto per passare da A2 a B1?
-
-Se riesci a:
-
-| Indicatore | Esito |
-|-----------|-------|
-| parlare per 2 minuti | sì |
-| usare passato, presente e futuro | sì |
-| scrivere un testo breve | sì |
-| capire conversazioni semplici | sì |
-
-👉 allora puoi passare al livello **B1**
-
----
-
-# 📙 Test B1 – Intermediate Check
-
-Il test B1 verifica se sei diventato autonomo.
-
-A questo livello devi essere in grado di:
-
-- parlare di lavoro e studio
-- esprimere opinioni
-- raccontare esperienze
-- dare consigli
-- parlare del futuro
-- scrivere email e messaggi chiari
-
----
-
-## Competenze attese B1
-
-| Abilità | Cosa dovresti saper fare |
-|---------|--------------------------|
-| Speaking | sostenere una conversazione abbastanza lunga |
-| Grammar | usare present perfect, first conditional, modals |
-| Vocabulary | usare collocations e phrasal verbs base |
-| Writing | scrivere email e testi strutturati |
-| Interaction | esprimere opinioni e reagire |
-
----
-
-## Struttura consigliata del Test B1
+### Struttura consigliata del test A2
 
 | Parte | Contenuto | Punti |
 |------|-----------|-------|
-| Part 1 | Present Perfect | 10 |
-| Part 2 | Present Perfect vs Past Simple | 10 |
-| Part 3 | Future Forms | 10 |
-| Part 4 | First Conditional | 10 |
-| Part 5 | Modals | 10 |
-| Part 6 | Work / Study / Opinions | 10 |
-| Part 7 | Writing | 10 |
-| Part 8 | Speaking | 10 |
+| 1 | Present Simple vs Present Continuous | 10 |
+| 2 | Past Simple | 10 |
+| 3 | Comparatives / Quantifiers | 10 |
+| 4 | Future forms | 10 |
+| 5 | Present Perfect for experiences | 10 |
+| 6 | Vocabulary in context | 10 |
+| 7 | Writing | 10 |
+| 8 | Speaking | 10 |
 
 Totale consigliato: **80 punti**
 
----
+### Quando sei pronto per B1?
 
-## Esempi di task B1
-
-### Grammar
-
-Completa:
-
-1. I have ___ (see) that film  
-2. I ___ (go) to Rome last year  
-3. If I ___ (study), I will pass  
-4. You should ___ (rest) more  
+| Indicatore | Sì / No |
+|-----------|---------|
+| Riesco a parlare per 2 minuti con continuità | |
+| Riesco a usare presente, passato e futuro | |
+| Riesco a scrivere un testo breve collegato | |
+| Riesco a capire e rispondere in contesti quotidiani | |
+| Riesco a usare lessico più vario del livello base | |
 
 ---
 
-### Writing
+## 📙 Test B1 – Independent User Check
 
-Scrivi una email di 100–120 parole.
+B1 controlla se sei diventato abbastanza autonomo.
 
-Puoi scegliere tra:
+### Cosa dovresti saper fare
 
-- email a un amico
-- email per chiedere informazioni
-- email per spiegare un problema
+- parlare di lavoro, studio ed esperienze
+- esprimere opinioni con motivazioni
+- usare tempi verbali con una certa sicurezza
+- scrivere email e testi strutturati
+- sostenere una conversazione abbastanza lunga
+
+### Struttura consigliata del test B1
+
+| Parte | Contenuto | Punti |
+|------|-----------|-------|
+| 1 | Present Perfect | 10 |
+| 2 | Present Perfect vs Past Simple | 10 |
+| 3 | Future forms | 10 |
+| 4 | First Conditional | 10 |
+| 5 | Modals | 10 |
+| 6 | Work / Study / Opinions | 10 |
+| 7 | Email or message writing | 10 |
+| 8 | Speaking | 10 |
+
+Totale consigliato: **80 punti**
+
+### Quando sei pronto per B2?
+
+| Indicatore | Sì / No |
+|-----------|---------|
+| Riesco a parlare per 3–4 minuti su un tema noto | |
+| Riesco a dare un’opinione con ragioni ed esempi | |
+| Riesco a scrivere un testo chiaro e strutturato | |
+| Riesco a usare forme come Present Perfect e modals con buona sicurezza | |
+| Riesco a reagire in conversazione senza bloccarmi troppo | |
 
 ---
 
-### Speaking
+## 📕 Test B2 – Fluency and Control Check
 
-Parla per 3 minuti su:
+B2 controlla se riesci a usare l’inglese con buona fluidità, struttura e naturalezza.
 
-- il tuo lavoro o studio
-- una tua esperienza
-- un’opinione su un tema semplice
+### Cosa dovresti saper fare
 
----
-
-## Quando sei pronto per passare da B1 a B2?
-
-Se riesci a:
-
-| Indicatore | Esito |
-|-----------|-------|
-| parlare per 3 minuti senza bloccarti troppo | sì |
-| esprimere opinioni con spiegazioni | sì |
-| usare present perfect correttamente | sì |
-| scrivere un testo strutturato | sì |
-
-👉 allora puoi passare al livello **B2**
-
----
-
-# 📕 Test B2 – Upper-Intermediate Check
-
-Il test B2 verifica se riesci a usare l’inglese con una buona autonomia, naturalezza e precisione.
-
-A questo livello devi saper:
-
-- parlare con fluidità
-- collegare idee
-- discutere
-- raccontare storie
-- usare tono formale e informale
+- collegare idee in modo chiaro
+- discutere e argomentare
+- raccontare storie ed esperienze in modo strutturato
+- usare tono formale e informale con una certa consapevolezza
 - scrivere testi ben organizzati
 
----
-
-## Competenze attese B2
-
-| Abilità | Cosa dovresti saper fare |
-|---------|--------------------------|
-| Speaking | sostenere discorsi lunghi e chiari |
-| Grammar | usare strutture complesse |
-| Vocabulary | usare collocations, phrasal verbs, nuance |
-| Writing | scrivere testi articolati |
-| Interaction | discutere, argomentare, reagire |
-
----
-
-## Struttura consigliata del Test B2
+### Struttura consigliata del test B2
 
 | Parte | Contenuto | Punti |
 |------|-----------|-------|
-| Part 1 | Complex Sentences | 10 |
-| Part 2 | Collocations | 10 |
-| Part 3 | Paraphrasing | 10 |
-| Part 4 | Relative Clauses | 10 |
-| Part 5 | Formal vs Informal | 10 |
-| Part 6 | Discussion Skills | 10 |
-| Part 7 | Writing | 10 |
-| Part 8 | Speaking | 10 |
+| 1 | Complex sentences | 10 |
+| 2 | Collocations | 10 |
+| 3 | Paraphrasing | 10 |
+| 4 | Relative clauses | 10 |
+| 5 | Register and tone | 10 |
+| 6 | Discussion skills | 10 |
+| 7 | Structured writing | 10 |
+| 8 | Extended speaking | 10 |
 
 Totale consigliato: **80 punti**
 
----
+### Quando sei pronto per C1?
 
-## Esempi di task B2
-
-### Grammar / Use of English
-
-Completa:
-
-1. I have a friend ___ works in London  
-2. I made a ___ yesterday  
-3. Although it was difficult, I ___  
-4. Could you please ___ me the file?  
+| Indicatore | Sì / No |
+|-----------|---------|
+| Riesco a parlare per 5 minuti con buona fluidità | |
+| Riesco a difendere un’opinione | |
+| Riesco a scrivere testi ben strutturati | |
+| Riesco a usare collocations e register con una certa naturalezza | |
+| Riesco a riformulare quando non trovo subito la parola giusta | |
 
 ---
 
-### Writing
+## 📓 Test C1 – Precision, Flexibility and Nuance Check
 
-Scrivi un testo di 150–180 parole su uno di questi temi:
+C1 controlla se riesci a usare l’inglese con precisione, controllo e flessibilità.
 
-- perché imparare inglese oggi
-- vantaggi e svantaggi del lavoro da remoto
-- perché viaggiare è importante
+### Cosa dovresti saper fare
 
-Devi usare:
+- gestire sfumature di significato
+- scegliere strutture in base all’effetto voluto
+- sintetizzare, riportare, argomentare
+- usare connettori e lessico con più precisione
+- scrivere e parlare in modo più maturo e controllato
 
-- introduzione
-- sviluppo
-- conclusione
-- linking words
+### Struttura consigliata del test C1
 
----
+| Parte | Contenuto | Punti |
+|------|-----------|-------|
+| 1 | Advanced tenses | 10 |
+| 2 | Advanced / mixed conditionals | 10 |
+| 3 | Modal deduction | 10 |
+| 4 | Passive / reported speech | 10 |
+| 5 | Advanced connectors | 10 |
+| 6 | Collocations / lexical precision | 10 |
+| 7 | Analytical writing | 10 |
+| 8 | Advanced speaking | 10 |
 
-### Speaking
+Totale consigliato: **80 punti**
 
-Parla per 5 minuti su:
+### Quando sei pronto per C2?
 
-- un’esperienza importante
-- una tua opinione argomentata
-- un confronto tra due idee
-- un piano futuro
-
----
-
-## Quando puoi dire di essere B2?
-
-Se riesci a:
-
-| Indicatore | Esito |
-|-----------|-------|
-| parlare per 5 minuti con buona fluidità | sì |
-| spiegare e difendere un’opinione | sì |
-| scrivere testi strutturati e chiari | sì |
-| capire conversazioni normali | sì |
-
-👉 allora sei a un **livello B2 operativo**
+| Indicatore | Sì / No |
+|-----------|---------|
+| Riesco a scegliere tra strutture simili in base alla nuance | |
+| Riesco a scrivere con controllo di tono e chiarezza | |
+| Riesco a sintetizzare e riferire informazioni complesse | |
+| Riesco a parlare in modo preciso e flessibile | |
+| Riesco a correggermi e riformulare con naturalezza | |
 
 ---
 
-# 📐 Sistema di valutazione consigliato
+## 📔 Test C2 – Mastery Check
 
-Per rendere i test davvero utili, puoi usare una valutazione semplice ma chiara.
+C2 controlla il livello di padronanza: non solo correttezza, ma anche naturalezza, controllo, adattamento al contesto e precisione pragmatica.
+
+### Cosa dovresti saper fare
+
+- usare l’inglese con naturalezza e controllo quasi completo
+- gestire tono, stance e register con precisione
+- argomentare, negoziare, raccontare e riformulare con grande flessibilità
+- usare strutture avanzate senza suonare artificiale
+- passare da uno stile a un altro in base al contesto
+
+### Struttura consigliata del test C2
+
+| Parte | Contenuto | Punti |
+|------|-----------|-------|
+| 1 | Idiomatic English | 10 |
+| 2 | Advanced phrasal verbs | 10 |
+| 3 | Inversion / ellipsis / substitution | 10 |
+| 4 | Discourse markers / style and tone | 10 |
+| 5 | Argumentation / debate | 10 |
+| 6 | Storytelling / fluency control | 10 |
+| 7 | Advanced writing | 10 |
+| 8 | Extended speaking / performance task | 10 |
+
+Totale consigliato: **80 punti**
+
+### Quando puoi dire di avere un C2 operativo?
+
+| Indicatore | Sì / No |
+|-----------|---------|
+| Riesco ad adattare tono e stile con precisione | |
+| Riesco a parlare a lungo con controllo e naturalezza | |
+| Riesco a usare lessico idiomatico senza esagerare | |
+| Riesco a scrivere testi maturi, densi e chiari | |
+| Riesco a riformulare con flessibilità quasi immediata | |
+
+---
+
+# Valutazione consigliata
+
+## Valutazione generale
 
 | Percentuale | Valutazione | Significato |
 |-------------|-------------|-------------|
 | 90–100% | Excellent | livello molto solido |
-| 75–89% | Good | livello buono, da consolidare |
-| 60–74% | Sufficient | base presente, ma fragile |
-| sotto 60% | Review Needed | serve ripasso prima di avanzare |
+| 75–89% | Good | buon controllo, ma da consolidare |
+| 60–74% | Developing | base presente, ma ancora fragile |
+| sotto 60% | Review Needed | serve ripasso serio prima di avanzare |
 
----
-
-## Valutazione Speaking
-
-Lo speaking non va valutato solo in base agli errori.
-
-Serve guardare 4 aspetti:
+## Valutazione speaking
 
 | Criterio | Cosa osservare |
 |----------|----------------|
 | Fluency | continuità del parlato |
-| Accuracy | correttezza grammaticale |
-| Vocabulary | varietà del lessico |
-| Communication | capacità di farsi capire |
+| Accuracy | correttezza strutturale |
+| Range | varietà di strutture e lessico |
+| Interaction | capacità di reagire e gestire il turno |
+| Communication | efficacia complessiva |
 
----
-
-## Valutazione Writing
-
-Per la scrittura puoi usare questa griglia:
+## Valutazione writing
 
 | Criterio | Cosa osservare |
 |----------|----------------|
 | Structure | organizzazione del testo |
-| Grammar | correttezza delle strutture |
-| Vocabulary | parole adeguate e naturali |
 | Clarity | chiarezza del messaggio |
+| Grammar | correttezza e controllo |
+| Vocabulary | adeguatezza e precisione |
+| Tone | coerenza con il contesto |
+
+<div class="pro-only" markdown="1">
+
+## Valutazione Professional
+
+In modalità **Professional**, oltre al punteggio generale, conviene aggiungere un secondo filtro qualitativo.
+
+| Criterio | Domanda guida |
+|----------|----------------|
+| Naturalness | Suona naturale o solo corretto? |
+| Register | Il tono è adatto al contesto? |
+| Precision | La scelta lessicale è precisa? |
+| Flexibility | Lo studente sa riformulare? |
+| Pragmatic control | L’effetto comunicativo è adeguato? |
+
+</div>
 
 ---
 
-# 🧠 Come correggere i test in modo intelligente
+# Come correggere bene un test
 
-Fare il test non basta.  
-La parte più importante è **la correzione**.
+Fare il test non basta. La parte più utile è la correzione.
 
-Usa questo metodo:
+## Metodo di correzione intelligente
 
 | Step | Azione |
 |------|--------|
-| 1 | correggi gli errori |
-| 2 | capisci perché hai sbagliato |
-| 3 | riscrivi la risposta corretta |
-| 4 | crea una frase nuova con la stessa regola |
-| 5 | ripeti ad alta voce |
+| 1 | Correggi le risposte |
+| 2 | Classifica l’errore |
+| 3 | Scrivi la versione corretta |
+| 4 | Spiega perché era sbagliato |
+| 5 | Crea una frase nuova con la stessa regola |
+| 6 | Ripeti o riscrivi a distanza di qualche giorno |
 
----
-
-## Analisi degli errori
-
-Non tutti gli errori sono uguali.  
-Dividili in categorie:
+## Tipi di errore da tracciare
 
 | Tipo di errore | Esempio | Cosa fare |
 |----------------|---------|-----------|
-| Grammar error | He work | ripassare la regola |
-| Vocabulary error | make a photo | ripassare collocations |
-| Word order | Where you are from? | rifare strutture interrogative |
-| Translation error | I have 20 years | imparare struttura naturale |
-| Fluency issue | pause troppo lunghe | fare speaking practice |
+| Grammar error | *He work* | Ripassare la struttura |
+| Vocabulary error | *make a photo* | Ripassare collocations |
+| Word order | *Where you are from?* | Rifare le interrogative |
+| Translation error | *I have 20 years* | Imparare la struttura naturale |
+| Register error | frase troppo diretta in email | Allenare tono e contesto |
+| Fluency issue | pause troppo lunghe | Fare speaking practice mirata |
 
 ---
 
-# 🔁 Strategia di revisione dopo un test
-
-Dopo ogni test, fai questo:
+# Routine consigliata dopo ogni test
 
 | Giorno | Attività |
 |--------|----------|
-| Giorno 1 | fai il test |
-| Giorno 2 | correggi e annota errori |
-| Giorno 3 | rifai solo le parti sbagliate |
-| Giorno 4 | speaking o writing sullo stesso tema |
-| Giorno 5 | mini ripasso finale |
+| Giorno 1 | Fai il test |
+| Giorno 2 | Correggi e annota gli errori |
+| Giorno 3 | Rifai solo le parti sbagliate |
+| Giorno 4 | Fai speaking o writing sullo stesso tema |
+| Giorno 5 | Mini review finale |
 
 ---
 
-# 🚀 Mini test rapido di autovalutazione
+# Mini autovalutazione finale
 
-Rispondi sinceramente:
+Rispondi sinceramente.
 
 | Domanda | Sì / No |
 |---------|---------|
-| Riesco a parlare del mio presente? | |
-| Riesco a raccontare un’esperienza passata? | |
-| Riesco a parlare del futuro? | |
-| Riesco a esprimere un’opinione? | |
-| Riesco a scrivere un messaggio chiaro? | |
-| Riesco a capire una conversazione semplice? | |
-
-Più risposte “Sì” hai, più il tuo livello è stabile.
+| Riesco a capire cosa so davvero fare in inglese? | |
+| Riesco a vedere quali errori ripeto spesso? | |
+| Riesco a usare i test per migliorare e non solo per “votarmi”? | |
+| Riesco a capire se sono pronto per il livello successivo? | |
+| Riesco a trasformare un test in piano di studio? | |
 
 ---
 
-# 🎯 Regola d’oro
+# Regola d’oro
 
-Un test ben fatto non deve dirti solo:
+Un buon test non deve dirti solo:
 
 **“Hai sbagliato.”**
 
 Deve dirti:
 
-**“Ecco cosa sai fare, ecco cosa devi migliorare.”**
-
----
-
-# 💡 Consiglio finale
-
-Quando fai un test:
-
-- non cercare la perfezione
-- cerca sincerità
-- lavora sugli errori
-- rifallo dopo qualche giorno
-
-Il progresso reale si vede così.
+**“Ecco cosa sai fare, ecco cosa devi migliorare, ecco come migliorarlo.”**
 
 ---
 
 # ✅ Conclusione
 
-Questa sezione è il tuo punto di controllo.
+Questa sezione è il punto di controllo del corso.
 
 I test ti aiutano a trasformare:
 
 - studio → competenza
-- conoscenza → uso reale
+- regola → uso reale
 - livello teorico → livello pratico
+- conoscenza passiva → controllo attivo
 
-Ricorda:
-
-| Idea | Verità |
-|------|--------|
-| Fare un test è difficile | sì |
-| Fare un test è utile | molto |
-| Fare un test e correggerlo bene | è ciò che fa davvero crescere |
-
----
-
-> Tests do not measure perfection.  
-> They measure progress.
+> Tests do not measure perfection. They measure progress, control and readiness.

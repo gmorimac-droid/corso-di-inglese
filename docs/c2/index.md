@@ -1,305 +1,90 @@
-# 📘 Livello C2 – Mastery
+# C2 — Mastery, Precision and Native-Like Control
+
+Welcome to the **C2** section of the course.
+
+At this stage, the goal is no longer just to speak correct English. The goal is to use English with **precision, flexibility, nuance, strategic control, and natural fluency** across different contexts.
+
+In this course, each unit can be viewed in two modes:
+
+- **Base** — a clear and structured path that helps the learner understand the main concept, practise core patterns, and consolidate advanced language points without overload.
+- **Professional** — an expanded version designed for deeper mastery, with richer explanations, more natural language, finer distinctions of meaning, stronger speaking and writing tasks, and a more realistic command of register, tone, discourse, and native-like expression.
+
+Use the site toggle to move between **Base** and **Professional** mode at any time.
 
 ---
 
-## 🎯 Obiettivo del livello C2
+## What you should achieve at C2
 
-Il livello **C2** rappresenta il punto più alto della competenza linguistica.
+By the end of this level, the learner should be able to:
 
-👉 non significa più:
+- understand and use highly nuanced English with control and confidence;
+- choose language not only for correctness, but for **effect**, **tone**, and **precision**;
+- speak with strong fluency, flexible reformulation, and natural discourse management;
+- write with mature control over register, argumentation, cohesion, and stylistic variation;
+- handle idiomatic language, inversion, ellipsis, substitution, and advanced rhetorical structures naturally;
+- shift between informal, professional, formal, and high-level persuasive language with accuracy.
 
-- imparare l’inglese  
-
-👉 ma:
-
-✔️ **dominare l’inglese**
-
----
-
-Alla fine di questo livello sarai in grado di:
-
-- comunicare in modo naturale e spontaneo
-- esprimere qualsiasi idea con precisione
-- adattare il linguaggio a qualsiasi contesto
-- comprendere inglese reale (anche complesso)
-- pensare direttamente in inglese
+C2 is the level of **mastery**: not perfection in every sentence, but the ability to use English in a sophisticated, controlled, and adaptable way.
 
 ---
 
-## 🧠 Il vero significato di C2
+## Units in this level
 
-👉 C2 NON è:
+### Unit 51 — Idiomatic English (Real Native Expressions)
+Work on idiomaticity, pragmatic fit, and real native-like expressions without sounding forced or unnatural.
 
-- sapere più parole  
-- conoscere più grammatica  
+### Unit 52 — Advanced Phrasal Verbs (Native-Level Meaning)
+Explore polysemy, figurative meaning, and register-aware choices in advanced phrasal verbs.
 
----
+### Unit 53 — Inversion (Formal & Advanced Structures)
+Use inversion for emphasis, formal control, rhetorical effect, and sophisticated written or spoken style.
 
-👉 C2 è:
+### Unit 54 — Ellipsis & Substitution (Natural Flow)
+Develop more natural discourse through omission, substitution, rhythm, and advanced economy of expression.
 
-✔️ naturalezza  
-✔️ fluidità  
-✔️ controllo totale  
+### Unit 55 — Discourse Markers (Natural Conversation Flow)
+Control conversation flow, stance, reformulation, and pragmatic nuance through advanced discourse markers.
 
----
+### Unit 56 — Style & Tone (Formal vs Informal Mastery)
+Master tone, register shift, distance, diplomacy, and communicative effect across contexts.
 
-👉 è il livello di:
+### Unit 57 — Argumentation & Debate (Advanced Thinking)
+Build high-level arguments with concession, rebuttal, pressure-response language, and strategic positioning.
 
-- professionisti  
-- madrelingua avanzati  
-- contesti accademici  
+### Unit 58 — Storytelling (Advanced Narrative Skills)
+Structure sophisticated narratives with pace, temporal layering, turning points, and meaningful closure.
 
----
+### Unit 59 — Native-like Fluency (Thinking in English)
+Reduce mental translation and strengthen automaticity, processing fluency, and functional language control.
 
----
-
-## 🔁 Il salto da C1 a C2
-
-| C1 | C2 |
-|----|----|
-| fluente | naturale |
-| preciso | spontaneo |
-| corretto | adattabile |
-| controllato | automatico |
+### Unit 60 — C2 Final Review (Mastery, Integration & Control)
+Integrate the full C2 block through advanced speaking, writing, tone management, reformulation, and discourse control.
 
 ---
 
----
+## How to use this level
 
-## 📚 Struttura del livello C2
+For a stronger learning path:
 
-Il livello C2 è composto da 10 unità:
+1. Start each unit in **Base** mode to identify the central concept.
+2. Switch to **Professional** mode to deepen nuance, naturalness, and strategic control.
+3. Do the speaking tasks aloud: at C2, performance matters as much as knowledge.
+4. Rewrite and reformulate your own answers, rather than completing each task only once.
+5. Pay close attention to **register**, **tone**, **stance**, **collocation**, and **discourse effect**.
 
-| Unità | Contenuto |
-|------|----------|
-| 51 | Idiomatic English |
-| 52 | Advanced Phrasal Verbs |
-| 53 | Inversion (Formal Structures) |
-| 54 | Ellipsis & Substitution |
-| 55 | Discourse Markers |
-| 56 | Style & Tone |
-| 57 | Argumentation & Debate |
-| 58 | Storytelling |
-| 59 | Native-like Fluency |
-| 60 | Final Mastery |
+At this level, progress often comes from improving **quality of expression**, not only adding new grammar.
 
 ---
 
----
+## Final goal of C2
 
-## 🧩 Cosa imparerai davvero
+By the end of this section, the learner should be able to use English with a level of control that feels:
 
-Durante questo livello svilupperai:
+- precise;
+- flexible;
+- natural;
+- persuasive;
+- context-sensitive;
+- stylistically mature.
 
----
-
-### 🧠 Naturalezza
-
-- parlare senza sforzo  
-- usare espressioni autentiche  
-- sembrare madrelingua  
-
----
-
-### 🎯 Precisione avanzata
-
-- scegliere parole perfette  
-- evitare ambiguità  
-- comunicare con chiarezza assoluta  
-
----
-
-### 🔗 Fluidità
-
-- collegare idee in modo naturale  
-- parlare senza pause  
-- reagire velocemente  
-
----
-
-### 🧠 Pensiero in inglese
-
-- eliminare traduzione mentale  
-- pensare direttamente nella lingua  
-- usare l’inglese come strumento  
-
----
-
----
-
-## 🧠 Metodo per il livello C2
-
-👉 a questo livello cambia tutto:
-
----
-
-### ❌ NON fare
-
-- studiare solo teoria  
-- memorizzare liste  
-
----
-
-### ✔️ FAI
-
-- parlare ogni giorno  
-- ascoltare inglese reale  
-- usare la lingua  
-
----
-
----
-
-## ⏱ Frequenza consigliata
-
-👉 minimo:
-
-- 30 minuti al giorno  
-
----
-
-👉 ideale:
-
-- speaking quotidiano  
-
----
-
----
-
-## 🗣️ Focus sullo speaking
-
-A livello C2 devi:
-
-- parlare per 5–10 minuti senza fermarti  
-- esprimere opinioni complesse  
-- usare tono naturale  
-
----
-
----
-
-## ✍️ Focus sul writing
-
-Devi saper:
-
-- scrivere testi articolati  
-- usare stile formale e informale  
-- argomentare  
-
----
-
----
-
-## ⚠️ Errori da evitare
-
-| Errore | Soluzione |
-|--------|-----------|
-| tradurre mentalmente | pensare in inglese |
-| usare linguaggio base | usare precisione |
-| parlare poco | parlare ogni giorno |
-| evitare complessità | sviluppare idee |
-
----
-
----
-
-## 🧠 Segnali che sei C2
-
-👉 riesci a:
-
-- capire film senza sottotitoli  
-- parlare senza preparazione  
-- adattare il linguaggio  
-- usare idioms naturalmente  
-
----
-
----
-
-## 🧩 Come usare questo livello
-
-👉 non studiare passivamente  
-
-👉 ogni unità:
-
-- leggila  
-- usala  
-- parlala  
-
----
-
----
-
-## 🔁 Progressione ideale
-
-| Giorno | Attività |
-|--------|----------|
-| Giorno 1 | nuova unità |
-| Giorno 2 | speaking |
-| Giorno 3 | listening |
-| Giorno 4 | writing |
-
----
-
----
-
-## 🚀 Dopo il C2
-
-👉 non esiste “dopo”  
-
----
-
-👉 ma esiste:
-
-✔️ mantenimento  
-✔️ miglioramento continuo  
-✔️ uso reale  
-
----
-
----
-
-## 🔥 Insight finale
-
-👉 A1–B2 = impari  
-👉 C1 = controlli  
-👉 C2 = domini  
-
----
-
-## 💡 Regola d’oro
-
-👉 non cercare perfezione  
-
-👉 cerca:
-
-- naturalezza  
-- fluidità  
-- autenticità  
-
----
-
----
-
-## 🏁 Fine del percorso
-
-Hai raggiunto:
-
-👉 il livello più alto possibile  
-
----
-
-## 🔥 Risultato
-
-👉 ora puoi:
-
-- lavorare in inglese  
-- studiare in inglese  
-- vivere in inglese  
-
----
-
----
-
-> At C2 level, English is no longer something you learn.  
-> It is something you live.
+This is the final stage of the course: a movement from advanced competence to **confident, high-level mastery**.

@@ -1,10 +1,25 @@
 site_name: Corso di Inglese
 site_description: Corso completo di inglese da livello A1 a C2
-site_author: Il tuo nome
+site_author: Massimo Mori
+
+markdown_extensions:
+  - md_in_html
+  - pymdownx.snippets:
+      base_path:
+        - docs
+      check_paths: true
+
+extra_css:
+  - assets/stylesheets/course-mode.css
+
+extra_javascript:
+  - assets/javascripts/course-mode.js
 
 theme:
   name: material
   language: it
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
