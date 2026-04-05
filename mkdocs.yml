@@ -124,9 +124,9 @@ nav:
 
   - Vocabulary Builder:
       - Introduzione: vocabulary/index.md
-      - A1-A2: _snippets/vocabulary/chunk-01-core-everyday.md
-      - B1-B2: _snippets/vocabulary/chunk-02-social-work-study.md
-      - C1-C2: _snippets/vocabulary/chunk-03-advanced-nuance-c2.md
+      - A1-A2: vocabulary/chunk-01-core-everyday.md
+      - B1-B2: vocabulary/chunk-02-social-work-study.md
+      - C1-C2: vocabulary/chunk-03-advanced-nuance-c2.md
 
   - Exercises:
       - exercises/index.md
