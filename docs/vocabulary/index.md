@@ -196,14 +196,6 @@ Il lessico va studiato soprattutto come:
 
 ---
 
-## Indice rapido dei blocchi
-
-- [Chunk 1 — Core Everyday Vocabulary](#chunk-1--core-everyday-vocabulary)
-- [Chunk 2 — Social, Study, Work, Communication Vocabulary](#chunk-2--social-study-work-communication-vocabulary)
-- [Chunk 3 — Advanced Nuance, Precision, Idiomaticity](#chunk-3--advanced-nuance-precision-idiomaticity)
-
----
-
 ## Chunk 1 — Core Everyday Vocabulary
 
 Lessico quotidiano, concreto, ad alta frequenza, utile per:
@@ -221,11 +213,6 @@ Lessico quotidiano, concreto, ad alta frequenza, utile per:
 - interazione sociale quotidiana
 
 **Formato prevalente:** parola + significato + esempio semplice.
-
-
-<!--
---8<-- "_snippets/vocabulary/chunk-01-core-everyday.md"
--->
 
 ---
 
@@ -246,10 +233,6 @@ Lessico per:
 
 **Formato prevalente:** parola/espressione + significato + collocation + example.
 
-<!--
---8<-- "_snippets/vocabulary/chunk-02-social-work-study.md"
--->
-
 ---
 
 ## Chunk 3 — Advanced Nuance, Precision, Idiomaticity
@@ -265,10 +248,6 @@ Lessico avanzato per:
 - naturalezza alta C1–C2
 
 **Formato prevalente:** parola + funzione/significato + nuance + contrasto + esempio.
-
-<!--
---8<-- "_snippets/vocabulary/chunk-03-advanced-nuance-c2.md"
--->
 
 ---
 
