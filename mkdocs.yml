@@ -1,7 +1,8 @@
 site_name: Corso di Inglese
 site_description: Corso completo di inglese da livello A1 a C2
+site_url: "https://gmorimac-droid.github.io/corso-di-inglese"
 site_author: Massimo Mori
-
+ 
 markdown_extensions:
   - md_in_html
   - pymdownx.snippets:
@@ -25,7 +26,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - search.highlight
-    - content.code.copy
+#    - content.code.copy
 
 nav:
   - Home: index.md
@@ -122,7 +123,10 @@ nav:
       - grammar/index.md
 
   - Vocabulary Builder:
-      - vocabulary/index.md
+      - Introduzione: vocabulary/index.md
+      - A1-A2: ../_snippets/vocabulary/chunk-01-core-everyday.md
+      - B1-B2: ../_snippets/vocabulary/chunk-02-social-work-study.md
+      - C1-C2: ../_snippets/vocabulary/chunk-03-advanced-nuance-c2.md
 
   - Exercises:
       - exercises/index.md

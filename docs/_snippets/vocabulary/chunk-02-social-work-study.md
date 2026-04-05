@@ -10,41 +10,51 @@ Il lessico è organizzato per aree d’uso, con una progressione interna:
 - **common mistakes for Italian speakers**
 - blocchi **Professional** per collocations, register, nuance, tone e lexical precision
 
+In questa versione rigenerata, il **Core vocabulary** è stato reso più leggibile e più utile per lo studio attivo tramite tabelle con:
+- **word / expression**
+- **significato in italiano**
+- **example**
+
+L’obiettivo non è solo capire il lessico, ma usarlo meglio in contesti reali.
+
 ---
 
 ### 1. Study, Learning, and Academic Life
 
 #### Core vocabulary
-- study
-- learn
-- lesson
-- class
-- course
-- unit
-- level
-- teacher
-- student
-- classmate
-- homework
-- exercise
-- task
-- test
-- exam
-- mark / grade
-- mistake
-- correction
-- answer
-- question
-- note
-- notebook
-- topic
-- subject
-- skill
-- progress
-- method
-- revision
-- deadline
-- result
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| study | studiare | I study English every day. |
+| learn | imparare | Children learn quickly. |
+| lesson | lezione | Today's lesson was useful. |
+| class | classe / lezione | I have class at 6 p.m. |
+| course | corso | I'm taking an online course. |
+| unit | unità | We're revising Unit 3. |
+| level | livello | My level is B1. |
+| teacher | insegnante | The teacher explained it clearly. |
+| student | studente | Every student needs a notebook. |
+| classmate | compagno di classe | My classmate helped me. |
+| homework | compiti | I finished my homework. |
+| exercise | esercizio | This grammar exercise is difficult. |
+| task | compito / consegna | We have a listening task today. |
+| test | test / verifica | We had a vocabulary test yesterday. |
+| exam | esame | I'm studying for an exam. |
+| mark / grade | voto | She got a good grade. |
+| mistake | errore | I made a mistake in exercise 2. |
+| correction | correzione | The teacher gave us corrections. |
+| answer | risposta | Check your answers carefully. |
+| question | domanda | Can I ask a question? |
+| note | appunto / nota | I wrote a note in the margin. |
+| notebook | quaderno | I always bring a notebook. |
+| topic | argomento | Today's topic is travel. |
+| subject | materia | English is my favourite subject. |
+| skill | abilità | Listening is an important skill. |
+| progress | progresso | I'm making progress. |
+| method | metodo | I need a better study method. |
+| revision | ripasso | I usually do revision on Sundays. |
+| deadline | scadenza | The deadline is Friday. |
+| result | risultato | I'm happy with my result. |
 
 #### Useful combinations
 - attend a class
@@ -138,36 +148,39 @@ More professional: **I'm following a structured course and working on accuracy, 
 ### 2. Work, Roles, Responsibilities, and Career
 
 #### Core vocabulary
-- work
-- job
-- role
-- career
-- company
-- office
-- team
-- colleague
-- boss
-- manager
-- employee
-- employer
-- client
-- customer
-- task
-- duty
-- responsibility
-- shift
-- schedule
-- meeting
-- project
-- report
-- training
-- contract
-- salary
-- promotion
-- experience
-- skill
-- sector
-- industry
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| work | lavoro / lavorare | I work in marketing. |
+| job | lavoro / impiego | She's looking for a new job. |
+| role | ruolo | My role involves customer support. |
+| career | carriera | He wants to build an international career. |
+| company | azienda | I work for a software company. |
+| office | ufficio | Our office is in the city centre. |
+| team | team / squadra | I work with an international team. |
+| colleague | collega | A colleague helped me with the report. |
+| boss | capo | My boss is supportive. |
+| manager | manager / responsabile | The manager approved the plan. |
+| employee | dipendente | Every employee received training. |
+| employer | datore di lavoro | My employer offers flexible hours. |
+| client | cliente | We work with international clients. |
+| customer | cliente | The customer asked for help. |
+| task | compito | I have three tasks to finish today. |
+| duty | mansione / dovere | One of my duties is checking orders. |
+| responsibility | responsabilità | I'm responsible for weekly reports. |
+| shift | turno | She works the evening shift. |
+| schedule | programma / orario | My schedule is very busy this week. |
+| meeting | riunione | We have a meeting every Monday. |
+| project | progetto | I'm working on a new project. |
+| report | report / relazione | I need to finish the report today. |
+| training | formazione | New staff receive training. |
+| contract | contratto | I signed a new contract. |
+| salary | stipendio | The salary is competitive. |
+| promotion | promozione | She got a promotion last year. |
+| experience | esperienza | I want to gain more experience. |
+| skill | competenza / abilità | Communication is an important skill. |
+| sector | settore | I work in the finance sector. |
+| industry | industria / settore | The tech industry changes quickly. |
 
 #### Useful combinations
 - work as a designer
@@ -276,34 +289,37 @@ More professional: **I work in operations, where I coordinate internal processes
 ### 3. Office Life, Projects, Meetings, and Workflow
 
 #### Core vocabulary
-- office
-- desk
-- laptop
-- document
-- file
-- folder
-- calendar
-- agenda
-- meeting
-- call
-- video call
-- presentation
-- slide
-- update
-- task list
-- deadline
-- priority
-- progress
-- issue
-- solution
-- delay
-- approval
-- process
-- step
-- plan
-- schedule
-- project
-- team member
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| office | ufficio | The office is quiet today. |
+| desk | scrivania | My laptop is on my desk. |
+| laptop | portatile | I forgot my laptop at home. |
+| document | documento | Please review the document. |
+| file | file | I shared the file with the team. |
+| folder | cartella | Put it in the project folder. |
+| calendar | calendario / agenda | Check the calendar before booking. |
+| agenda | ordine del giorno | What's on the agenda today? |
+| meeting | riunione | We have a team meeting at 10. |
+| call | chiamata / call | Let's have a quick call later. |
+| video call | videochiamata | Join the video call at 3 p.m. |
+| presentation | presentazione | She's preparing the presentation. |
+| slide | slide / diapositiva | I've updated the last slide. |
+| update | aggiornamento | I'll send you an update later. |
+| task list | lista di attività | Check the task list first. |
+| deadline | scadenza | The deadline is very tight. |
+| priority | priorità | This is our top priority. |
+| progress | avanzamento / progresso | We're making steady progress. |
+| issue | problema / questione | We need to solve one issue. |
+| solution | soluzione | This could be a practical solution. |
+| delay | ritardo | There was a delay in approval. |
+| approval | approvazione | We need final approval. |
+| process | processo | The process is too slow. |
+| step | passaggio / fase | What's the next step? |
+| plan | piano | We need a clear plan. |
+| schedule | pianificazione / tabella | The project is on schedule. |
+| project | progetto | The project starts next week. |
+| team member | membro del team | Every team member received the update. |
 
 #### Useful combinations
 - schedule a meeting
@@ -396,36 +412,39 @@ More developed project vocabulary:
 ### 4. Technology, Digital Tools, and Online Communication
 
 #### Core vocabulary
-- computer
-- laptop
-- phone
-- tablet
-- app
-- platform
-- account
-- password
-- login
-- file
-- attachment
-- link
-- website
-- browser
-- screen
-- keyboard
-- microphone
-- camera
-- connection
-- internet
-- network
-- bug
-- update
-- setting
-- notification
-- message
-- chat
-- online meeting
-- screen sharing
-- upload / download
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| computer | computer | My computer is very slow today. |
+| laptop | portatile | I use my laptop for work. |
+| phone | telefono | I'll check it on my phone. |
+| tablet | tablet | She reads on her tablet. |
+| app | app / applicazione | This app is really useful. |
+| platform | piattaforma | We use a different platform now. |
+| account | account | I can't access my account. |
+| password | password | Reset your password first. |
+| login | accesso / login | My login isn't working. |
+| file | file | I uploaded the wrong file. |
+| attachment | allegato | Please open the attachment. |
+| link | link / collegamento | I'll send you the link. |
+| website | sito web | The website is down. |
+| browser | browser | Open it in another browser. |
+| screen | schermo | Share your screen, please. |
+| keyboard | tastiera | My keyboard isn't working. |
+| microphone | microfono | Turn on your microphone. |
+| camera | videocamera | My camera is off. |
+| connection | connessione | The connection is unstable. |
+| internet | internet | The internet is very slow. |
+| network | rete | The network is down. |
+| bug | bug / errore software | We found a bug in the app. |
+| update | aggiornamento | The system needs an update. |
+| setting | impostazione | Check your settings. |
+| notification | notifica | I got a notification. |
+| message | messaggio | I sent you a message. |
+| chat | chat | Write it in the chat. |
+| online meeting | riunione online | Join the online meeting now. |
+| screen sharing | condivisione schermo | Screen sharing isn't working. |
+| upload / download | caricare / scaricare | I'll upload the file now. |
 
 #### Useful combinations
 - log in to your account
@@ -512,33 +531,36 @@ More advanced digital communication vocabulary:
 ### 5. Emails, Messages, Requests, and Follow-ups
 
 #### Core vocabulary
-- email
-- message
-- subject line
-- attachment
-- reply
-- response
-- request
-- reminder
-- confirmation
-- update
-- invitation
-- availability
-- schedule
-- detail
-- information
-- apology
-- thanks
-- greeting
-- closing
-- signature
-- tone
-- formal
-- informal
-- polite
-- urgent
-- follow-up
-- clarification
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| email | email | I sent you an email yesterday. |
+| message | messaggio | Did you read my message? |
+| subject line | oggetto dell’email | The subject line is too vague. |
+| attachment | allegato | The attachment is missing. |
+| reply | risposta / rispondere | Thanks for your reply. |
+| response | risposta | We need a quick response. |
+| request | richiesta | I received a formal request. |
+| reminder | promemoria | This is a quick reminder. |
+| confirmation | conferma | Please send confirmation by Friday. |
+| update | aggiornamento | I'll send you an update soon. |
+| invitation | invito | Thanks for the invitation. |
+| availability | disponibilità | Please confirm your availability. |
+| schedule | agenda / calendario | My schedule is full today. |
+| detail | dettaglio | Let me know the details. |
+| information | informazioni | I'm writing to ask for information. |
+| apology | scusa / messaggio di scuse | We sent an apology to the client. |
+| thanks | ringraziamenti | Many thanks for your help. |
+| greeting | saluto iniziale | Use a polite greeting. |
+| closing | formula di chiusura | The closing sounds too informal. |
+| signature | firma | Add your full signature. |
+| tone | tono | The tone is clear and polite. |
+| formal | formale | This email is quite formal. |
+| informal | informale | That's too informal for a client. |
+| polite | educato / cortese | Try to sound polite. |
+| urgent | urgente | This is an urgent request. |
+| follow-up | sollecito / follow-up | I'll send a follow-up tomorrow. |
+| clarification | chiarimento | We need some clarification. |
 
 #### Useful combinations
 - send an email
@@ -625,28 +647,31 @@ More developed: **I'd appreciate it if you could send me the latest version toda
 ### 6. Opinions, Agreement, Disagreement, and Discussion Language
 
 #### Core vocabulary
-- opinion
-- idea
-- point
-- argument
-- reason
-- example
-- discussion
-- debate
-- agreement
-- disagreement
-- advantage
-- disadvantage
-- solution
-- perspective
-- view
-- evidence
-- fact
-- claim
-- position
-- topic
-- issue
-- point of view
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| opinion | opinione | In my opinion, it's a good idea. |
+| idea | idea | That's an interesting idea. |
+| point | punto / osservazione | That's a good point. |
+| argument | argomento / tesi | The argument is convincing. |
+| reason | motivo / ragione | What's the main reason? |
+| example | esempio | Let me give an example. |
+| discussion | discussione / confronto | We had a useful discussion. |
+| debate | dibattito | The debate was lively. |
+| agreement | accordo | We finally reached an agreement. |
+| disagreement | disaccordo | There was some disagreement. |
+| advantage | vantaggio | One advantage is the price. |
+| disadvantage | svantaggio | The main disadvantage is time. |
+| solution | soluzione | We need a better solution. |
+| perspective | prospettiva | From my perspective, it's risky. |
+| view | punto di vista | I understand your view. |
+| evidence | prova / evidenza | We need more evidence. |
+| fact | fatto | That's an important fact. |
+| claim | affermazione / tesi | The claim needs evidence. |
+| position | posizione | What's your position on this issue? |
+| topic | argomento | Let's change the topic. |
+| issue | questione / problema | This is a complex issue. |
+| point of view | punto di vista | From my point of view, it works. |
 
 #### Useful combinations
 - express an opinion
@@ -726,32 +751,35 @@ More advanced discussion vocabulary:
 ### 7. Problems, Solutions, Decisions, and Change
 
 #### Core vocabulary
-- problem
-- issue
-- difficulty
-- challenge
-- obstacle
-- delay
-- error
-- mistake
-- risk
-- consequence
-- option
-- choice
-- decision
-- plan
-- alternative
-- solution
-- result
-- improvement
-- change
-- progress
-- failure
-- success
-- pressure
-- priority
-- emergency
-- strategy
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| problem | problema | We have a small problem. |
+| issue | questione / problema | This issue needs attention. |
+| difficulty | difficoltà | We had some difficulties. |
+| challenge | sfida / difficoltà | Time is our main challenge. |
+| obstacle | ostacolo | Money is a major obstacle. |
+| delay | ritardo | There was a delay in delivery. |
+| error | errore | We found an error in the file. |
+| mistake | errore | I made a mistake. |
+| risk | rischio | This plan carries some risk. |
+| consequence | conseguenza | What are the consequences? |
+| option | opzione | We considered every option. |
+| choice | scelta | It's your choice. |
+| decision | decisione | We made a final decision. |
+| plan | piano | We need a clear plan. |
+| alternative | alternativa | Is there an alternative? |
+| solution | soluzione | We need a practical solution. |
+| result | risultato | The result was positive. |
+| improvement | miglioramento | We've seen some improvement. |
+| change | cambiamento | This change is necessary. |
+| progress | progresso / avanzamento | We're making progress. |
+| failure | fallimento | Failure can teach you a lot. |
+| success | successo | The launch was a success. |
+| pressure | pressione | I'm working under pressure. |
+| priority | priorità | Safety is the top priority. |
+| emergency | emergenza | It was an emergency. |
+| strategy | strategia | We need a better strategy. |
 
 #### Useful combinations
 - face a problem
@@ -835,34 +863,37 @@ More advanced problem-solving vocabulary:
 ### 8. Media, News, Culture, and Public Life
 
 #### Core vocabulary
-- news
-- article
-- report
-- interview
-- headline
-- media
-- newspaper
-- website
-- source
-- information
-- fact
-- opinion
-- rumour
-- update
-- event
-- culture
-- film
-- series
-- documentary
-- book
-- review
-- audience
-- trend
-- public
-- society
-- campaign
-- influence
-- reaction
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| news | notizie | I read the news every morning. |
+| article | articolo | I read an interesting article. |
+| report | rapporto / servizio | This report is reliable. |
+| interview | intervista | I watched the interview online. |
+| headline | titolo / titolo principale | The headline was misleading. |
+| media | media / mezzi di informazione | Social media spread news quickly. |
+| newspaper | giornale | He still buys a newspaper. |
+| website | sito web | I found it on a news website. |
+| source | fonte | Check the source before sharing. |
+| information | informazioni | We need accurate information. |
+| fact | fatto | That's an important fact. |
+| opinion | opinione | That's just one opinion. |
+| rumour | voce / diceria | It was only a rumour. |
+| update | aggiornamento | We got an update this morning. |
+| event | evento | The event attracted a large audience. |
+| culture | cultura | The film reflects local culture. |
+| film | film | The film was very powerful. |
+| series | serie | I'm watching a new series. |
+| documentary | documentario | The documentary was informative. |
+| book | libro | The book became very popular. |
+| review | recensione | I read a review before buying it. |
+| audience | pubblico | The audience reacted strongly. |
+| trend | tendenza | This trend is growing fast. |
+| public | pubblico | The public response was mixed. |
+| society | società | The issue affects society deeply. |
+| campaign | campagna | The campaign raised awareness. |
+| influence | influenzare / influenza | Media can influence opinion. |
+| reaction | reazione | Her reaction surprised everyone. |
 
 #### Useful combinations
 - read an article
@@ -945,32 +976,35 @@ More advanced media and public discourse vocabulary:
 ### 9. Society, Environment, and Contemporary Issues
 
 #### Core vocabulary
-- society
-- community
-- environment
-- pollution
-- waste
-- climate
-- energy
-- resource
-- habit
-- behaviour
-- inequality
-- education
-- healthcare
-- housing
-- public service
-- technology
-- privacy
-- mobility
-- lifestyle
-- well-being
-- responsibility
-- impact
-- measure
-- policy
-- support
-- awareness
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| society | società | Society is changing quickly. |
+| community | comunità | The local community helped a lot. |
+| environment | ambiente | We need to protect the environment. |
+| pollution | inquinamento | Air pollution is getting worse. |
+| waste | spreco / rifiuti | We should reduce waste. |
+| climate | clima | Climate change is a global issue. |
+| energy | energia | The city is investing in clean energy. |
+| resource | risorsa | Water is a precious resource. |
+| habit | abitudine | Small habits can make a difference. |
+| behaviour | comportamento | We need to change behaviour. |
+| inequality | disuguaglianza | Inequality affects many communities. |
+| education | istruzione | Education should be accessible. |
+| healthcare | sanità / assistenza sanitaria | Healthcare is a major public issue. |
+| housing | alloggi / casa | Affordable housing is hard to find. |
+| public service | servizio pubblico | Public services need investment. |
+| technology | tecnologia | Technology changes the way we live. |
+| privacy | privacy / riservatezza | Online privacy matters. |
+| mobility | mobilità | Urban mobility is improving slowly. |
+| lifestyle | stile di vita | A healthy lifestyle matters. |
+| well-being | benessere | Work affects our well-being. |
+| responsibility | responsabilità | We all share responsibility. |
+| impact | impatto | This change has a positive impact. |
+| measure | misura / provvedimento | The measure was introduced last year. |
+| policy | politica / linea d’azione | The policy aims to reduce waste. |
+| support | sostegno / supporto | Families need more support. |
+| awareness | consapevolezza | The campaign raised awareness. |
 
 #### Useful combinations
 - protect the environment
@@ -1052,33 +1086,36 @@ More advanced social vocabulary:
 ### 10. Everyday Communication, Social Behaviour, and Small Talk
 
 #### Core vocabulary
-- conversation
-- chat
-- question
-- answer
-- reply
-- comment
-- greeting
-- introduction
-- invitation
-- compliment
-- apology
-- suggestion
-- request
-- favour
-- habit
-- attitude
-- behaviour
-- politeness
-- confidence
-- awkward silence
-- misunderstanding
-- relationship
-- impression
-- interest
-- topic
-- joke
-- opinion
+
+| Word / Expression | Significato | Example |
+|---|---|---|
+| conversation | conversazione | We had a good conversation. |
+| chat | chiacchierata / chat | We had a quick chat after class. |
+| question | domanda | Ask a follow-up question. |
+| answer | risposta | That's a good answer. |
+| reply | risposta | Thanks for your reply. |
+| comment | commento | He made an interesting comment. |
+| greeting | saluto | Use a friendly greeting. |
+| introduction | presentazione | That was a polite introduction. |
+| invitation | invito | Thanks for the invitation. |
+| compliment | complimento | She gave me a nice compliment. |
+| apology | scusa | His apology sounded sincere. |
+| suggestion | suggerimento | That's a useful suggestion. |
+| request | richiesta | I have a small request. |
+| favour | favore | Can I ask you a favour? |
+| habit | abitudine | Small social habits matter. |
+| attitude | atteggiamento | She has a positive attitude. |
+| behaviour | comportamento | His behaviour was polite. |
+| politeness | cortesia / educazione | Politeness matters in English. |
+| confidence | sicurezza | Confidence helps in conversation. |
+| awkward silence | silenzio imbarazzante | Nobody likes awkward silence. |
+| misunderstanding | malinteso | It was just a misunderstanding. |
+| relationship | relazione / rapporto | Good communication builds relationships. |
+| impression | impressione | She made a great impression. |
+| interest | interesse | Show real interest in people. |
+| topic | argomento | Let's change the topic. |
+| joke | battuta / scherzo | He made a joke to relax the mood. |
+| opinion | opinione | What's your opinion on that? |
 
 #### Useful combinations
 - make small talk

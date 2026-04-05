@@ -2,9 +2,13 @@
 
 Benvenuto nella sezione **Vocabulary** del corso completo di inglese **A1 → C2**.
 
-Questa pagina raccoglie e organizza il lessico del corso in una grande reference tematica, pensata non come semplice lista di parole, ma come guida pratica all'uso reale del vocabolario in contesto.
+Questa sezione raccoglie il lessico del corso in una reference progressiva, organizzata per livello, funzione e qualità d’uso. Non è pensata come semplice lista di parole da memorizzare, ma come strumento per aiutarti a passare da:
 
-Il lessico è stato strutturato per aiutarti a sviluppare progressivamente:
+- parola isolata → parola capita
+- parola capita → parola usata bene
+- parola usata bene → parola scelta con precisione, naturalezza e controllo del registro
+
+L’obiettivo non è solo ampliare il vocabolario, ma sviluppare nel tempo:
 
 - **range lessicale**
 - **precisione**
@@ -13,33 +17,122 @@ Il lessico è stato strutturato per aiutarti a sviluppare progressivamente:
 - **idiomaticity**
 - **collocational awareness**
 
+---
+
 ## Come usare questa sezione
 
-Puoi usare questa pagina in quattro modi principali:
+Puoi usare questa sezione in quattro modi principali.
 
 ### 1. Come reference tematica
-Se vuoi rivedere il lessico di una certa area, puoi usare direttamente i grandi blocchi tematici qui sotto.
+Se vuoi rivedere il lessico di un’area specifica, puoi consultare direttamente il chunk corrispondente.
 
-### 2. Come supporto alle unità
-Dopo aver studiato una unità grammaticale o comunicativa, puoi tornare qui per consolidare il lessico collegato al tema.
+### 2. Come supporto alle unità del corso
+Dopo aver studiato una unità grammaticale o comunicativa, puoi tornare qui per consolidare il lessico collegato.
 
 ### 3. Come strumento di revisione attiva
-Non limitarti a leggere le parole: prova a costruire frasi, fare sostituzioni, creare esempi personali, riformulare e parlare ad alta voce.
+Non limitarti a leggere le parole. Prova a:
 
-### 4. Come ponte verso uno speaking e un writing più naturali
-A livelli più alti, il problema non è solo “sapere la parola”, ma scegliere la parola **più adatta**, **più naturale** e **più coerente con il tono**.
+- costruire frasi
+- fare sostituzioni
+- creare esempi personali
+- trasformare il lessico in speaking
+- riciclare le stesse parole in writing
+
+### 4. Come ponte verso uno speaking e writing più naturali
+Ai livelli più alti, il problema non è solo “sapere una parola”, ma scegliere quella più adatta per:
+
+- contesto
+- tono
+- relazione con l’interlocutore
+- grado di precisione
+- effetto comunicativo
+
+---
+
+## Come è organizzato il vocabulary
+
+Questa sezione è divisa in **3 grandi chunk**, ciascuno con una funzione diversa.
+
+### Chunk 1 — Core Everyday Vocabulary
+Lessico quotidiano, concreto e ad alta frequenza. È il blocco fondamentale per costruire basi solide da **A1 ad A2**, con estensioni utili verso **B1**.
+
+Qui troverai soprattutto:
+- parole essenziali
+- significati chiari
+- esempi semplici
+- combinazioni frequenti
+- errori tipici da evitare
+
+### Chunk 2 — Social, Study, Work, Communication Vocabulary
+Lessico per studio, lavoro, comunicazione, tecnologia, collaborazione, opinioni e vita contemporanea. Questo chunk accompagna soprattutto il passaggio da **A2/B1 a B2**.
+
+Qui troverai soprattutto:
+- lessico operativo e funzionale
+- collocations ad alta utilità
+- patterns per speaking e writing
+- lessico per email, meeting, problemi, decisioni e discussione
+
+### Chunk 3 — Advanced Nuance, Precision, Idiomaticity
+Lessico avanzato per **C1–C2**, centrato su precisione, sfumature, registro, stance, diplomazia, argomentazione e naturalezza alta.
+
+Qui troverai soprattutto:
+- definizioni più fini
+- differenze tra near-synonyms
+- controllo del tono e del registro
+- lessico per analisi, argomentazione e scrittura avanzata
+
+---
+
+## Il formato cambia in base al livello
+
+Per rendere il vocabulary più utile, il formato non è identico in tutti i chunk.
+
+### Nei blocchi A1–A2
+Il lessico è presentato in modo molto chiaro e accessibile.
+
+Di solito troverai:
+- **word**
+- **significato**
+- **esempio semplice**
+
+Obiettivo: capire e ricordare il lessico essenziale con rapidità.
+
+### Nei blocchi B1–B2
+Il lessico non viene solo tradotto, ma mostrato anche nel suo uso più naturale.
+
+Di solito troverai:
+- **word / expression**
+- **meaning**
+- **common combination / collocation**
+- **example**
+
+Obiettivo: imparare a usare parole naturali in combinazioni naturali.
+
+### Nei blocchi C1–C2
+Il focus non è più solo sul significato base, ma sulla scelta lessicale più precisa.
+
+Di solito troverai:
+- **word**
+- **meaning / functional meaning**
+- **nuance / register**
+- **contrast with similar words**
+- **example in context**
+
+Obiettivo: sviluppare controllo, precisione, diplomazia, naturalezza e consapevolezza del registro.
+
+---
 
 ## Modalità Base e Professional
 
-Questo sito offre due modalità di studio:
+Questo sito offre due modalità di studio.
 
 ### Base
 Nella modalità **Base** trovi:
 - lessico fondamentale
-- combinazioni comuni
-- esempi semplici e chiari
-- errori tipici da evitare
-- supporto utile per consolidare il lessico essenziale
+- significati chiari
+- combinazioni frequenti
+- esempi semplici
+- errori comuni da evitare
 
 ### Professional
 Nella modalità **Professional** trovi in più:
@@ -69,30 +162,21 @@ In altre parole, il lavoro lessicale diventa non solo quantitativo, ma anche qua
 
 </div>
 
-## Struttura della sezione
+---
 
-La sezione è organizzata in **3 grandi chunk**:
-
-### Chunk 1 — Core Everyday Vocabulary
-Lessico quotidiano, concreto, ad alta frequenza, utile per identità personale, casa, routine, cibo, città, viaggi, salute, hobby e interazione sociale quotidiana.
-
-### Chunk 2 — Social, Study, Work, Communication Vocabulary
-Lessico per studio, lavoro, comunicazione, email, opinioni, problemi, media, società, tecnologia e vita professionale.
-
-### Chunk 3 — Advanced Nuance, Precision, Idiomaticity
-Lessico avanzato per precisione espressiva, argomentazione, tone management, idiomaticità, register, stance e naturalezza alta **C1–C2**.
-
-## Metodo consigliato di studio del vocabolario
+## Come studiare davvero il vocabolario
 
 Per ottenere risultati reali, usa questa sequenza:
 
-1. leggi il lessico del tema
-2. individua le combinazioni utili
-3. nota gli errori tipici degli italofoni
-4. crea esempi personali
-5. prova a trasformare il lessico in speaking
-6. ricicla le stesse parole in writing
-7. torna sul tema dopo qualche giorno per consolidarlo
+1. leggi il lessico del tema;
+2. individua le combinazioni utili;
+3. nota gli errori tipici;
+4. crea esempi personali;
+5. prova a usare lo stesso lessico in speaking;
+6. ricicla le parole in writing;
+7. torna sul tema dopo qualche giorno per consolidarlo.
+
+---
 
 ## Cosa NON fare
 
@@ -104,10 +188,13 @@ Non basta:
 - memorizzare equivalenze isolate senza contesto
 
 Il lessico va studiato soprattutto come:
-- **word + pattern**
+- **word + meaning**
+- **word + example**
 - **word + collocation**
 - **word + register**
 - **word + context**
+
+---
 
 ## Indice rapido dei blocchi
 
@@ -119,25 +206,75 @@ Il lessico va studiato soprattutto come:
 
 ## Chunk 1 — Core Everyday Vocabulary
 
+Lessico quotidiano, concreto, ad alta frequenza, utile per:
+
+- identità personale
+- famiglia
+- casa
+- routine
+- cibo
+- shopping
+- città
+- viaggi
+- salute
+- hobby
+- interazione sociale quotidiana
+
+**Formato prevalente:** parola + significato + esempio semplice.
+
+
+<!--
 --8<-- "_snippets/vocabulary/chunk-01-core-everyday.md"
+-->
 
 ---
 
 ## Chunk 2 — Social, Study, Work, Communication Vocabulary
 
+Lessico per:
+
+- studio
+- lavoro
+- collaborazione
+- tecnologia
+- email
+- messaggi
+- opinioni
+- problemi
+- decisioni
+- società e comunicazione contemporanea
+
+**Formato prevalente:** parola/espressione + significato + collocation + example.
+
+<!--
 --8<-- "_snippets/vocabulary/chunk-02-social-work-study.md"
+-->
 
 ---
 
 ## Chunk 3 — Advanced Nuance, Precision, Idiomaticity
 
+Lessico avanzato per:
+
+- precisione espressiva
+- argomentazione
+- gestione del tono
+- idiomaticità
+- controllo del registro
+- stance
+- naturalezza alta C1–C2
+
+**Formato prevalente:** parola + funzione/significato + nuance + contrasto + esempio.
+
+<!--
 --8<-- "_snippets/vocabulary/chunk-03-advanced-nuance-c2.md"
+-->
 
 ---
 
-## Come ripassare questa pagina senza perderti
+## Come ripassare questa sezione senza perderti
 
-Dato che questa reference è molto ampia, puoi usarla anche per cicli di revisione.
+Dato che questa reference è ampia, puoi usarla anche per cicli di revisione.
 
 ### Revisione breve
 Scegli un solo tema e lavora su:
@@ -187,6 +324,8 @@ Questo è il vero passaggio da vocabolario scolastico a vocabolario maturo.
 
 </div>
 
+---
+
 ## Self-check finale
 
 Prova a rispondere a queste domande:
@@ -198,7 +337,9 @@ Prova a rispondere a queste domande:
 5. Sai adattare il lessico al registro?
 6. Sai trasformare il vocabolario studiato in speaking e writing?
 
-Se la risposta è “non sempre”, questa pagina non va solo letta: va **usata**, ripresa, annotata e riciclata.
+Se la risposta è “non sempre”, questa sezione non va solo letta: va **usata**, ripresa, annotata e riciclata.
+
+---
 
 ## Conclusione
 

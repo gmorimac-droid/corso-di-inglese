@@ -1,4 +1,3 @@
-
 # Chunk 3 — Advanced Nuance, Precision, and Idiomaticity
 
 This chunk develops the higher-level vocabulary that helps learners move from strong intermediate or upper-intermediate English into genuinely advanced **C1–C2 control**. The focus is not simply on “more difficult words”, but on **precision, register, stance, idiomaticity, discourse effect, framing, and lexical choice**.
@@ -26,11 +25,11 @@ For that reason, this chunk is organised around themes that matter especially at
 
 Use this chunk differently from a beginner word list. Do not try to memorise everything at once. Instead:
 
-1. choose one section;
-2. learn the items in **contrast pairs or functional groups**;
-3. reuse them in sentences, mini-paragraphs, discussion answers, or email fragments;
-4. notice where a word sounds **too strong, too vague, too formal, or too casual**;
-5. recycle the same items over time in speaking and writing.
+1. choose one section
+2. learn the items in **contrast pairs or functional groups**
+3. reuse them in sentences, mini-paragraphs, discussion answers, or email fragments
+4. notice where a word sounds **too strong, too vague, too formal, or too casual**
+5. recycle the same items over time in speaking and writing
 
 <div class="pro-only" markdown="1">
 
@@ -48,38 +47,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Lexical Precision: Choosing the Right Word
 
 ### Core vocabulary
 
-- **issue** — a topic or problem that needs attention
-- **concern** — something that causes worry or requires careful consideration
-- **challenge** — a demanding situation that requires effort or skill
-- **drawback** — a disadvantage or negative aspect
-- **trade-off** — a balance between competing advantages and disadvantages
-- **approach** — a method or way of dealing with something
-- **framework** — a structured way of thinking about a topic
-- **shift** — a change in direction, tone, focus, or policy
-- **outcome** — the final result of an action or process
-- **implication** — a likely consequence or meaning that is not always stated directly
-- **claim** — an assertion that may need evidence
-- **assumption** — something accepted as true without full proof
+| Word | Significato | Example |
+|---|---|---|
+| issue | questione / problema | This raises an important issue. |
+| concern | preoccupazione / aspetto delicato | Cost is a major concern here. |
+| challenge | sfida / difficoltà impegnativa | The main challenge lies in timing. |
+| drawback | svantaggio / limite negativo | One drawback is the lack of flexibility. |
+| trade-off | compromesso tra vantaggi e svantaggi | There is a trade-off between speed and quality. |
+| approach | approccio / metodo | We need a more balanced approach. |
+| framework | quadro concettuale / struttura | This framework helps us analyse the topic. |
+| shift | cambiamento / svolta | There has been a clear shift in priorities. |
+| outcome | esito / risultato finale | One possible outcome is a delay. |
+| implication | implicazione / conseguenza | The decision has wider implications. |
+| claim | affermazione da verificare | That claim needs stronger evidence. |
+| assumption | supposizione / presupposto | The argument rests on a weak assumption. |
 
 ### Useful combinations
 
-- **r**
-- **a**
-- **p**
-- **h**
-- **w**
-- **a**
-- **w**
-- **m**
-- **a**
-- **c**
-- **s**
-- **q**
+- **raise an issue**
+- **address a concern**
+- **pose a challenge**
+- **have a drawback**
+- **weigh the trade-offs**
+- **adopt an approach**
+- **work within a framework**
+- **mark a shift**
+- **anticipate an outcome**
+- **challenge a claim**
+- **support a claim**
+- **question an assumption**
 
 ### Typical patterns
 
@@ -105,7 +107,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Distinguish between near-synonyms by **scope, seriousness, emotional load, and register**.
@@ -117,38 +118,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Abstract Nouns and Conceptual Vocabulary
 
 ### Core vocabulary
 
-- **awareness** — knowledge or understanding of a situation
-- **insight** — a deep and accurate understanding
-- **perception** — the way something is seen or understood
-- **mindset** — a habitual way of thinking
-- **accountability** — responsibility for actions and results
-- **credibility** — the quality of being believable and trustworthy
-- **coherence** — logical connection and consistency
-- **relevance** — the degree to which something is connected to the matter being discussed
-- **resilience** — the ability to recover from difficulties
-- **constraint** — a limitation that restricts choice or action
-- **capacity** — the ability to do something or cope with demands
-- **alignment** — agreement between goals, actions, or people
+| Word | Significato | Example |
+|---|---|---|
+| awareness | consapevolezza | There is growing awareness that change is needed. |
+| insight | intuizione / comprensione profonda | The report offers useful insight into user behaviour. |
+| perception | percezione | Public perception has shifted. |
+| mindset | mentalità / modo di pensare | We need a more flexible mindset. |
+| accountability | responsabilità effettiva | Clear accountability is essential. |
+| credibility | credibilità | The speaker has a lot of credibility. |
+| coherence | coerenza | The essay lacks coherence in places. |
+| relevance | rilevanza | We should focus on relevance, not quantity. |
+| resilience | resilienza / capacità di recupero | The team showed resilience under pressure. |
+| constraint | vincolo / limitazione | Budget is our main constraint. |
+| capacity | capacità | We do not have the capacity to do that now. |
+| alignment | allineamento / coerenza tra parti | We need better alignment across teams. |
 
 ### Useful combinations
 
-- **r**
-- **g**
-- **s**
-- **a**
-- **e**
-- **d**
-- **m**
-- **q**
-- **b**
-- **o**
-- **i**
-- **s**
+- **raise awareness**
+- **gain insight into**
+- **shape perception**
+- **adopt a mindset**
+- **ensure accountability**
+- **establish credibility**
+- **maintain coherence**
+- **demonstrate relevance**
+- **build resilience**
+- **operate under constraints**
+- **expand capacity**
+- **strengthen alignment**
 
 ### Typical patterns
 
@@ -173,7 +177,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - High-level English often depends on **abstract nouns** that let you discuss ideas rather than only actions.
@@ -183,34 +186,36 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Stance, Attitude, and Degree of Certainty
 
 ### Core vocabulary
 
-- **apparently** — according to what seems true from available information
-- **arguably** — it can reasonably be argued that
-- **presumably** — probably, based on what is known
-- **reportedly** — according to reports, not necessarily verified
-- **seemingly** — appearing to be a certain way
-- **largely** — mostly but not entirely
-- **broadly** — in general terms
-- **to some extent** — partly, but not fully
-- **undeniably** — in a way that cannot really be denied
-- **arguably** — open to reasoned argument
-- **conceivably** — possibly, though perhaps not likely
-- **virtually** — almost, in practice though not always literally
+| Word | Significato | Example |
+|---|---|---|
+| apparently | apparentemente / a quanto pare | Apparently, the plan has changed. |
+| arguably | si può sostenere che / probabilmente in senso argomentabile | It is arguably the best option. |
+| presumably | presumibilmente | They will presumably reply tomorrow. |
+| reportedly | secondo quanto riportato | The company reportedly changed direction. |
+| seemingly | apparentemente | Seemingly minor changes can matter a lot. |
+| largely | in gran parte | The situation is largely unchanged. |
+| broadly | in termini generali / in senso ampio | I broadly agree with that view. |
+| to some extent | fino a un certo punto | The criticism is justified to some extent. |
+| undeniably | innegabilmente | It is undeniably an important issue. |
+| conceivably | concepibilmente / teoricamente possibile | This could conceivably happen again. |
+| virtually | praticamente / quasi | The process is virtually complete. |
 
 ### Useful combinations
 
-- **s**
-- **r**
-- **a**
-- **l**
-- **b**
-- **u**
-- **t**
-- **v**
+- **seemingly simple**
+- **reportedly true**
+- **arguably the best**
+- **largely unchanged**
+- **broadly speaking**
+- **undeniably important**
+- **to some extent justified**
+- **virtually impossible**
 
 ### Typical patterns
 
@@ -234,7 +239,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Advanced English uses **stance markers** to manage commitment, caution, and intellectual honesty.
@@ -244,38 +248,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Formal, Neutral, and Informal Register
 
 ### Core vocabulary
 
-- **request** — ask for something in a more formal or neutral way
-- **assistance** — help in a more formal register
-- **purchase** — buy in a formal or commercial register
-- **residence** — home or place of residence in formal language
-- **depart** — leave in more formal or institutional language
-- **obtain** — get in a more formal register
-- **require** — need in more formal or official language
-- **inform** — tell in more formal contexts
-- **regarding** — about in formal communication
-- **therefore** — so in formal logic or writing
-- **however** — but in a more formal discourse context
-- **furthermore** — also / in addition in formal writing
+| Word | Significato | Register note |
+|---|---|---|
+| request | richiedere / richiesta | more formal than **ask** |
+| assistance | assistenza / aiuto | more formal than **help** |
+| purchase | acquistare / acquisto | more formal than **buy** |
+| residence | residenza / domicilio | formal / institutional |
+| depart | partire / andarsene | more formal than **leave** |
+| obtain | ottenere | more formal than **get** |
+| require | richiedere / necessitare | more formal than **need** |
+| inform | informare | more formal than **tell** |
+| regarding | riguardo a | formal written English |
+| therefore | pertanto | formal logic / writing |
+| however | tuttavia | formal contrast marker |
+| furthermore | inoltre | formal addition marker |
 
 ### Useful combinations
 
-- **s**
-- **p**
-- **m**
-- **p**
-- **d**
-- **o**
-- **r**
-- **i**
-- **r**
-- **t**
-- **h**
-- **f**
+- **submit a request**
+- **provide assistance**
+- **make a purchase**
+- **place of residence**
+- **depart from**
+- **obtain permission**
+- **require approval**
+- **inform someone of**
+- **regarding your question**
+- **therefore conclude that**
+- **however, this means...**
+- **furthermore, it suggests...**
 
 ### Typical patterns
 
@@ -299,7 +306,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Practice rewriting the same idea in three registers: **informal**, **neutral professional**, and **formal**.
@@ -308,34 +314,37 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Tone Management: Softening, Hedging, and Diplomacy
 
 ### Core vocabulary
 
-- **concern** — a milder and more diplomatic alternative to problem in many contexts
-- **reservation** — a polite hesitation or doubt
-- **limitation** — a restrained way to note weakness
-- **scope** — the range or extent of something
-- **feasible** — possible and realistic
-- **constructive** — intended to help rather than attack
-- **sensitive** — requiring care or tact
-- **premature** — too early to be appropriate or justified
-- **misleading** — likely to create a false impression
-- **overlook** — fail to notice or give attention to
+| Word | Significato | Example |
+|---|---|---|
+| concern | preoccupazione / riserva diplomatica | I have some concerns about the timeline. |
+| reservation | riserva / dubbio | I have a few reservations about that plan. |
+| limitation | limite | This approach has some limitations. |
+| scope | portata / ambito | The scope of the project is unclear. |
+| feasible | fattibile / realistico | That may not be feasible right now. |
+| constructive | costruttivo | We need constructive feedback. |
+| sensitive | delicato / sensibile | This is a sensitive issue. |
+| premature | prematuro | It would be premature to decide now. |
+| misleading | fuorviante | That comparison is slightly misleading. |
+| overlook | trascurare / non notare | This argument overlooks a key point. |
 
 ### Useful combinations
 
-- **e**
-- **r**
-- **h**
-- **w**
-- **t**
-- **o**
-- **a**
-- **p**
-- **p**
-- **e**
+- **express concern**
+- **raise a reservation**
+- **highlight a limitation**
+- **within the scope of**
+- **technically feasible**
+- **offer constructive feedback**
+- **handle a sensitive issue**
+- **premature conclusion**
+- **potentially misleading**
+- **easily overlooked**
 
 ### Typical patterns
 
@@ -359,7 +368,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Advanced English is often about **managing relationships through language**.
@@ -368,38 +376,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Argumentation and Critical Thinking Vocabulary
 
 ### Core vocabulary
 
-- **premise** — an idea or statement that an argument is based on
-- **reasoning** — the process of thinking logically
-- **evidence** — information that supports a claim
-- **counterargument** — an argument against another argument
-- **rebuttal** — a response that challenges a counterargument
-- **bias** — a tendency that prevents neutral judgment
-- **distinction** — an important difference
-- **interpretation** — a particular way of explaining meaning
-- **assessment** — a considered judgment
-- **criterion** — a standard for judging something
-- **justification** — a reason that explains or supports a choice
-- **consistency** — the quality of being logically or behaviourally stable
+| Word | Significato | Example |
+|---|---|---|
+| premise | premessa | The argument rests on a weak premise. |
+| reasoning | ragionamento | I’m not convinced by the reasoning. |
+| evidence | prove / elementi a supporto | There is little evidence to support that claim. |
+| counterargument | controargomentazione | A likely counterargument is that costs are too high. |
+| rebuttal | confutazione / replica | Her rebuttal was clear and persuasive. |
+| bias | pregiudizio / distorsione | The article shows clear bias. |
+| distinction | distinzione | We need to make a clear distinction here. |
+| interpretation | interpretazione | That is one possible interpretation. |
+| assessment | valutazione ponderata | The assessment seems fair. |
+| criterion | criterio | Cost is not the only criterion. |
+| justification | giustificazione | The decision lacks justification. |
+| consistency | coerenza / costanza | There is not enough consistency in the argument. |
 
 ### Useful combinations
 
-- **r**
-- **f**
-- **p**
-- **a**
-- **o**
-- **s**
-- **d**
-- **a**
-- **m**
-- **m**
-- **r**
-- **m**
+- **rest on a premise**
+- **follow the reasoning**
+- **provide evidence**
+- **anticipate a counterargument**
+- **offer a rebuttal**
+- **show bias**
+- **draw a distinction**
+- **advance an interpretation**
+- **make an assessment**
+- **meet a criterion**
+- **require justification**
+- **maintain consistency**
 
 ### Typical patterns
 
@@ -423,7 +434,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - High-level argumentation depends on vocabulary that lets you analyse thought, not just express opinion.
@@ -432,38 +442,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Evaluation, Critique, and Review Language
 
 ### Core vocabulary
 
-- **compelling** — convincing and engaging
-- **insightful** — showing deep understanding
-- **superficial** — lacking depth
-- **coherent** — logical and well-connected
-- **flawed** — containing important weaknesses
-- **ambitious** — showing large aims or scope
-- **convincing** — persuasive and believable
-- **balanced** — fair and not one-sided
-- **inconsistent** — not staying logically or stylistically stable
-- **opaque** — difficult to understand
-- **rigorous** — thorough, careful, and disciplined
-- **overstated** — expressed too strongly
+| Word | Significato | Example |
+|---|---|---|
+| compelling | convincente e coinvolgente | The article makes a compelling case. |
+| insightful | acuto / ricco di intuizioni | It is an insightful analysis. |
+| superficial | superficiale | The overview feels superficial. |
+| coherent | coerente | The argument is coherent overall. |
+| flawed | viziato da difetti importanti | The conclusion is flawed. |
+| ambitious | ambizioso | It is an ambitious project. |
+| convincing | persuasivo / convincente | Her explanation was convincing. |
+| balanced | equilibrato | The review is balanced and fair. |
+| inconsistent | incoerente / discontinuo | The second part feels inconsistent. |
+| opaque | opaco / poco chiaro | Some sections are unnecessarily opaque. |
+| rigorous | rigoroso | The method is rigorous. |
+| overstated | eccessivo / sovrastimato | The final claim seems overstated. |
 
 ### Useful combinations
 
-- **a**
-- **a**
-- **a**
-- **a**
-- **a**
-- **a**
-- **a**
-- **a**
-- **i**
-- **a**
-- **a**
-- **a**
+- **a compelling argument**
+- **an insightful overview**
+- **a superficial treatment**
+- **a coherent structure**
+- **a flawed assumption**
+- **an ambitious aim**
+- **a convincing explanation**
+- **a balanced assessment**
+- **an inconsistent tone**
+- **an opaque passage**
+- **a rigorous method**
+- **an overstated conclusion**
 
 ### Typical patterns
 
@@ -486,7 +499,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - At high levels, good evaluation avoids both empty praise and vague negativity.
@@ -495,34 +507,37 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Framing, Reframing, and Perspective
 
 ### Core vocabulary
 
-- **frame** — to present an issue in a particular way
-- **reframe** — to present the same issue from a different angle
-- **narrative** — the story or interpretive pattern used to explain events
-- **lens** — a point of view or analytical perspective
-- **emphasis** — special importance given to something
-- **priority** — something considered more important than other things
-- **context** — the circumstances that surround an event or statement
-- **dimension** — one aspect of a complex issue
-- **angle** — a particular point of entry or way of viewing a topic
-- **perspective** — a way of thinking about something
+| Word | Significato | Example |
+|---|---|---|
+| frame | inquadrare / presentare in un certo modo | The issue is framed as a technical problem. |
+| reframe | riformulare / re-inquadrare | We need to reframe the question. |
+| narrative | narrativa / cornice interpretativa | That narrative is too simplistic. |
+| lens | lente / prospettiva analitica | We can examine this through a social lens. |
+| emphasis | enfasi / accento | The emphasis should be on long-term value. |
+| priority | priorità | Safety remains the top priority. |
+| context | contesto | Context matters here. |
+| dimension | dimensione / aspetto | The issue also has an ethical dimension. |
+| angle | angolazione / prospettiva | That is an interesting angle. |
+| perspective | prospettiva / punto di vista | From a policy perspective, the move makes sense. |
 
 ### Useful combinations
 
-- **f**
-- **r**
-- **s**
-- **t**
-- **s**
-- **s**
-- **i**
-- **a**
-- **t**
-- **f**
+- **frame an issue**
+- **reframe a question**
+- **shape a narrative**
+- **through a lens**
+- **shift the emphasis**
+- **set priorities**
+- **in context**
+- **add a dimension**
+- **take an angle**
+- **from a perspective**
 
 ### Typical patterns
 
@@ -545,7 +560,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - C2 English often involves not only what you say, but **how you position it**.
@@ -554,38 +568,35 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Nuance Between Similar Words
 
 ### Core vocabulary
 
-- **accurate** — factually correct
-- **precise** — carefully exact and specific
-- **efficient** — achieving results with little waste
-- **effective** — producing the intended result
-- **sensible** — practical and reasonable
-- **sensitive** — easily affected or requiring care
-- **historic** — important in history
-- **historical** — connected with history
-- **economic** — related to the economy
-- **economical** — not wasting money or resources
-- **credible** — believable
-- **plausible** — seemingly reasonable or likely
+| Pair | Difference | Example |
+|---|---|---|
+| accurate / precise | **accurate** = correct; **precise** = exact in detail | The summary is accurate but not very precise. |
+| efficient / effective | **efficient** = little waste; **effective** = gets the result | The system is efficient, but not always effective. |
+| sensible / sensitive | **sensible** = practical; **sensitive** = delicate / easily affected | This is a sensitive issue. |
+| historic / historical | **historic** = important in history; **historical** = related to history | It was a historic decision. |
+| economic / economical | **economic** = related to the economy; **economical** = not wasteful | This car is economical to run. |
+| credible / plausible | **credible** = believable and trustworthy; **plausible** = seems possible | The explanation sounds plausible, but not fully credible. |
 
 ### Useful combinations
 
-- **f**
-- **h**
-- **c**
-- **h**
-- **a**
-- **a**
-- **a**
-- **h**
-- **e**
-- **e**
-- **a**
-- **a**
+- **factually accurate**
+- **historically important**
+- **credible claim**
+- **highly sensitive**
+- **an economical option**
+- **an economic issue**
+- **a precise definition**
+- **an effective solution**
+- **an efficient process**
+- **a plausible explanation**
+- **a sensible choice**
+- **a historical source**
 
 ### Typical patterns
 
@@ -608,7 +619,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Near-synonym control is one of the clearest signs of lexical maturity.
@@ -617,34 +627,37 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Idiomaticity and High-Utility Idioms
 
 ### Core vocabulary
 
-- **carry weight** — have influence or importance
-- **a grey area** — a situation that is not clearly defined
-- **a long shot** — something unlikely to succeed
-- **on the same page** — in agreement or sharing the same understanding
-- **a turning point** — a moment when an important change happens
-- **a wake-up call** — an event that makes people realise a problem
-- **the bigger picture** — the wider context, not just the detail
-- **to hold up** — to remain valid or strong under scrutiny
-- **to backfire** — to have the opposite effect from the one intended
-- **to fall through** — to fail to happen as planned
+| Expression | Significato | Example |
+|---|---|---|
+| carry weight | avere peso / autorevolezza | His opinion carries weight. |
+| a grey area | zona grigia / caso poco definito | This remains a grey area legally. |
+| a long shot | possibilità remota | It is a long shot, but worth trying. |
+| on the same page | essere allineati | We need to make sure we are on the same page. |
+| a turning point | punto di svolta | The merger was a turning point. |
+| a wake-up call | campanello d’allarme | The results were a wake-up call. |
+| the bigger picture | il quadro generale | We should look at the bigger picture. |
+| hold up | reggere / restare valido | The argument does not hold up under scrutiny. |
+| backfire | ritorcersi contro | That strategy could backfire. |
+| fall through | saltare / non andare in porto | The deal fell through at the last minute. |
 
 ### Useful combinations
 
-- **c**
-- **r**
-- **b**
-- **g**
-- **m**
-- **s**
-- **l**
-- **h**
-- **b**
-- **f**
+- **carry real weight**
+- **remain a grey area**
+- **be a long shot**
+- **get on the same page**
+- **mark a turning point**
+- **serve as a wake-up call**
+- **look at the bigger picture**
+- **hold up under scrutiny**
+- **badly backfire**
+- **fall through unexpectedly**
 
 ### Typical patterns
 
@@ -667,7 +680,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Idiomaticity is about sounding **naturally placed** in the discourse community.
@@ -676,34 +688,37 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Advanced Phrasal Verbs and Polysemy
 
 ### Core vocabulary
 
-- **bring up** — mention; raise a child
-- **work out** — exercise; solve; develop well
-- **set up** — arrange; establish; frame someone
-- **take on** — accept; challenge; employ; acquire
-- **come across** — find by chance; seem to other people
-- **carry out** — perform; execute
-- **phase out** — remove gradually
-- **roll out** — launch officially
-- **break down** — stop functioning; analyse; collapse emotionally
-- **hold back** — restrain; delay; refuse to reveal
+| Phrasal verb | Meanings | Example |
+|---|---|---|
+| bring up | mention; raise a child | She brought up an important issue. |
+| work out | exercise; solve; develop well | We need to work out a solution. |
+| set up | arrange; establish; frame someone | They set up a new system. |
+| take on | accept; challenge; employ; acquire | She took on more responsibility. |
+| come across | find by chance; seem to others | He comes across as confident. |
+| carry out | perform; execute | We carried out a detailed review. |
+| phase out | remove gradually | The old model will be phased out. |
+| roll out | launch officially | The company rolled out the update. |
+| break down | stop functioning; analyse; collapse emotionally | Let’s break the issue down step by step. |
+| hold back | restrain; delay; not reveal | Something is holding the project back. |
 
 ### Useful combinations
 
-- **b**
-- **w**
-- **s**
-- **t**
-- **c**
-- **c**
-- **p**
-- **r**
-- **b**
-- **h**
+- **bring up a point**
+- **work out a solution**
+- **set up a process**
+- **take on responsibility**
+- **come across well**
+- **carry out research**
+- **phase out a product**
+- **roll out an update**
+- **break down a task**
+- **hold back information**
 
 ### Typical patterns
 
@@ -726,7 +741,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - At C1–C2, the challenge is not only knowing phrasal verbs, but choosing them for the **right effect**.
@@ -735,31 +749,34 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Word Families and Derivational Control
 
 ### Core vocabulary
 
-- **assume / assumption / assumed** — family around belief without full proof
-- **justify / justification / justifiable** — family around explanation and defence
-- **rely / reliable / reliability** — family around trust and consistency
-- **respond / response / responsive** — family around reaction
-- **analyse / analysis / analytical** — family around examination
-- **persist / persistence / persistent** — family around continuing over time
-- **adapt / adaptation / adaptable** — family around change and flexibility
-- **perceive / perception / perceptive** — family around noticing and understanding
-- **resist / resistance / resistant** — family around opposition
-- **sustain / sustainable / sustainability** — family around continuation over time
+| Family | Significato / function | Example |
+|---|---|---|
+| assume / assumption / assumed | presupporre / supposizione | That assumption seems weak. |
+| justify / justification / justifiable | giustificare / giustificazione | The decision is hard to justify. |
+| rely / reliable / reliability | fare affidamento / affidabile / affidabilità | We need reliable data. |
+| respond / response / responsive | rispondere / risposta / reattivo | The system is highly responsive. |
+| analyse / analysis / analytical | analizzare / analisi / analitico | The paper takes an analytical approach. |
+| persist / persistence / persistent | persistere / persistenza / persistente | The problem is persistent. |
+| adapt / adaptation / adaptable | adattare / adattamento / adattabile | Teams must remain adaptable. |
+| perceive / perception / perceptive | percepire / percezione / perspicace | Public perception matters. |
+| resist / resistance / resistant | resistere / resistenza / resistente | There was strong resistance to the change. |
+| sustain / sustainable / sustainability | sostenere / sostenibile / sostenibilità | Sustainability is now a strategic priority. |
 
 ### Useful combinations
 
-- **j**
-- **r**
-- **a**
-- **p**
-- **a**
-- **p**
-- **s**
+- **justify a decision**
+- **rely on evidence**
+- **analytical approach**
+- **persistent problem**
+- **adapt to change**
+- **perception of risk**
+- **sustainable growth**
 
 ### Typical patterns
 
@@ -782,7 +799,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - C2 learners should build **lexical networks**, not isolated vocabulary items.
@@ -791,38 +807,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Professional and Academic Precision
 
 ### Core vocabulary
 
-- **evaluate** — judge the value or quality of something
-- **outline** — present the main features briefly and clearly
-- **clarify** — make something clearer
-- **synthesise** — combine ideas into a unified whole
-- **prioritise** — decide what is more important
-- **allocate** — distribute resources or responsibility
-- **facilitate** — make a process easier
-- **implement** — put a plan into action
-- **monitor** — watch and track over time
-- **mitigate** — reduce the seriousness of something
-- **justify** — give reasons for something
-- **substantiate** — support with evidence
+| Verb | Significato | Example |
+|---|---|---|
+| evaluate | valutare | We need to evaluate the results carefully. |
+| outline | delineare / riassumere i punti principali | The report outlines three options. |
+| clarify | chiarire | Could you clarify that point? |
+| synthesise | sintetizzare / integrare idee | The article synthesises several perspectives. |
+| prioritise | dare priorità a | We need to prioritise the urgent tasks. |
+| allocate | allocare / assegnare | Resources should be allocated more carefully. |
+| facilitate | facilitare | This tool facilitates collaboration. |
+| implement | implementare / mettere in pratica | The plan was implemented in stages. |
+| monitor | monitorare | We need to monitor the impact over time. |
+| mitigate | mitigare / ridurre | We should mitigate the risks. |
+| justify | giustificare | How do you justify that choice? |
+| substantiate | comprovare / supportare con prove | The claim needs to be substantiated. |
 
 ### Useful combinations
 
-- **e**
-- **o**
-- **c**
-- **s**
-- **p**
-- **a**
-- **f**
-- **i**
-- **m**
-- **m**
-- **j**
-- **s**
+- **evaluate performance**
+- **outline a proposal**
+- **clarify a point**
+- **synthesise ideas**
+- **prioritise tasks**
+- **allocate resources**
+- **facilitate discussion**
+- **implement a plan**
+- **monitor progress**
+- **mitigate risk**
+- **justify a choice**
+- **substantiate a claim**
 
 ### Typical patterns
 
@@ -845,7 +864,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - Professional English often depends on verb choice more than on complexity of grammar.
@@ -854,38 +872,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## Narrative, Reflection, and Personal Voice
 
 ### Core vocabulary
 
-- **turning point** — a moment that changes the direction of events
-- **aftermath** — the period after an important event, often negative
-- **insight** — deep understanding gained from experience or thought
-- **realisation** — the moment of becoming aware of something
-- **hesitation** — a pause caused by uncertainty
-- **tension** — pressure or emotional strain
-- **ambiguity** — lack of clear meaning or certainty
-- **closure** — a sense of conclusion or emotional completion
-- **setback** — a difficulty or delay
-- **breakthrough** — an important advance
-- **lingering** — continuing for longer than expected
-- **underlying** — existing beneath the surface
+| Word | Significato | Example |
+|---|---|---|
+| turning point | punto di svolta | That was a turning point for me. |
+| aftermath | conseguenze / periodo successivo | The aftermath was harder than expected. |
+| insight | intuizione / comprensione profonda | The experience gave me new insight. |
+| realisation | presa di coscienza | The realisation came much later. |
+| hesitation | esitazione | I noticed a moment of hesitation. |
+| tension | tensione | There was visible tension in the room. |
+| ambiguity | ambiguità | The ending leaves room for ambiguity. |
+| closure | chiusura emotiva / conclusione | The conversation brought some closure. |
+| setback | battuta d’arresto | It was a serious setback. |
+| breakthrough | svolta positiva / progresso decisivo | The meeting led to a breakthrough. |
+| lingering | persistente / che rimane | There was a lingering sense of doubt. |
+| underlying | sottostante / latente | We still need to address the underlying issue. |
 
 ### Useful combinations
 
-- **a**
-- **d**
-- **g**
-- **c**
-- **a**
-- **b**
-- **l**
-- **s**
-- **s**
-- **a**
-- **l**
-- **a**
+- **a difficult aftermath**
+- **gain insight**
+- **come to a realisation**
+- **a moment of hesitation**
+- **build tension**
+- **leave ambiguity**
+- **seek closure**
+- **suffer a setback**
+- **achieve a breakthrough**
+- **a lingering feeling**
+- **an underlying cause**
+- **a turning point in**
 
 ### Typical patterns
 
@@ -908,7 +929,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - C2 narrative control is not only about sequencing events but about shaping **voice, reflection, and meaning**.
@@ -917,38 +937,41 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
+---
 
 ## C2 Naturalness: From Correct to Native-Like
 
 ### Core vocabulary
 
-- **slightly** — a softening adverb used constantly in natural speech and writing
-- **fairly** — moderately, to a reasonable degree
-- **pretty** — quite, in informal spoken English
-- **roughly** — approximately
-- **technically** — in a strict or exact sense
-- **basically** — in simple terms; often a discourse marker
-- **strictly speaking** — if speaking with full exactness
-- **oddly enough** — surprisingly
-- **in practice** — in real situations rather than theory
-- **all things considered** — taking everything into account
-- **that said** — even so; despite what was just said
-- **if anything** — used to intensify or reverse an assumption
+| Expression | Significato | Example |
+|---|---|---|
+| slightly | leggermente | The tone feels slightly too strong. |
+| fairly | abbastanza / piuttosto | The task is fairly straightforward. |
+| pretty | abbastanza / parecchio | It is pretty common in spoken English. |
+| roughly | all’incirca | The process takes roughly an hour. |
+| technically | tecnicamente / in senso stretto | Technically, that is correct. |
+| basically | in sostanza / praticamente | Basically, we need more time. |
+| strictly speaking | a rigor di termini | Strictly speaking, that is not accurate. |
+| oddly enough | stranamente / sorprendentemente | Oddly enough, nobody objected. |
+| in practice | in pratica / nei fatti | In practice, the rule works differently. |
+| all things considered | tutto sommato | All things considered, it was a good result. |
+| that said | detto questo / ciò detto | That said, there are still some risks. |
+| if anything | semmai / al contrario | If anything, the problem is getting worse. |
 
 ### Useful combinations
 
-- **s**
-- **f**
-- **p**
-- **r**
-- **t**
-- **b**
-- **s**
-- **o**
-- **i**
-- **a**
-- **t**
-- **i**
+- **slightly misleading**
+- **fairly common**
+- **pretty straightforward**
+- **roughly speaking**
+- **technically correct**
+- **basically the same**
+- **strictly speaking**
+- **oddly enough**
+- **in practice**
+- **all things considered**
+- **that said**
+- **if anything**
 
 ### Typical patterns
 
@@ -971,7 +994,6 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 <div class="pro-only" markdown="1">
 
-
 ### Professional upgrade
 
 - The difference between *correct* and *native-like* often lies in tiny choices.
@@ -980,7 +1002,7 @@ A very advanced learner is not the person who knows the most obscure words. It i
 
 </div>
 
-
+---
 
 ## Chunk 3 Review and Self-Check
 
